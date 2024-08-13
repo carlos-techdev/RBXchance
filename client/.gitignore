@@ -10,7 +10,6 @@
 
 # production
 /build
-/src/metadata.json
 
 # misc
 .DS_Store
