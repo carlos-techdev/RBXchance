@@ -1,0 +1,1270 @@
+[
+    {
+        "id": 1,
+        "slug": "baller",
+        "name": "baller",
+        "image": "https://media.discordapp.net/attachments/1085628292469641269/1198787205058007080/baller-68c38195.webp?ex=65c02c96&is=65adb796&hm=e9d10bb2b2c3456075ee27249dc7079f5875863ed830513ee615defe08427324&=&format=webp",
+        "price": 299.88,
+        "items": [
+            {
+                "name": "Da Vinci Wings",
+                "color": "gold",
+                "image": "https://growdice.co/items/53.png",
+                "price": 2000.00,
+                "ticketsEnd": 100000,
+                "ticketsStart": 95001
+            },
+            {
+                "name": "Heavenly scythe",
+                "color": "pink",
+                "image": "https://growdice.co/items/57.png",
+                "price": 1000.00,
+                "ticketsEnd": 95000,
+                "ticketsStart": 89001
+            },
+            {
+                "name": "Rayman's Fist",
+                "color": "purple",
+                "image": "https://growdice.co/items/43.png",
+                "price": 600.00,
+                "ticketsEnd": 89000,
+                "ticketsStart": 82001
+            },
+            {
+                "name": "Royal Lock",
+                "color": "purple",
+                "image": "https://growdice.co/items/31.png",
+                "price": 200.00,
+                "ticketsEnd": 82000,
+                "ticketsStart": 69001
+            },
+            {
+                "name": "Magplant 5000",
+                "color": "blue",
+                "image": "https://growdice.co/items/42.png",
+                "price": 120.00,
+                "ticketsEnd": 69000,
+                "ticketsStart": 44001
+        },
+        {
+            "name": "Phoenix Scarf",
+            "color": "blue",
+            "image": "https://growdice.co/items/51.png",
+            "price": 90.00,
+            "ticketsEnd": 44000,
+            "ticketsStart": 24001
+    },
+    {
+        "name": "Phoenix Pacifier",
+        "color": "blue",
+        "image": "https://growdice.co/items/56.png",
+        "price": 40.00,
+        "ticketsEnd": 24000,
+        "ticketsStart": 1
+    }
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "Seasons",
+        "name": "Seasons",
+        "image": "https://www.mm2values.com/img/BlossomGun.png",
+        "price": 0.42,
+        "items": [
+            {
+                "name": "Blossom",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/BlossomGun.png",
+                "price": 1.8,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Darkbringer",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146330254005252146/darkbringer-removebg-preview.png",
+                "price": 0.28,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Witched",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333322633543731/witched-removebg-preview_1.png",
+                "price": 0.19,
+                "ticketsEnd": 40000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Hallowgun",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146330554174820432/hallowsgun-removebg-preview.png",
+                "price": 0.15,
+                "ticketsEnd": 60000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Monster",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333500186841108/monster-removebg-preview_1.png",
+                "price": 0.05,
+                "ticketsEnd": 80000,
+                "ticketsStart": 60001
+            },
+            {
+                "name": "Silent Night Knife",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/SilentNightKnife.png",
+                "price": 0.02,
+                "ticketsEnd": 100000,
+                "ticketsStart": 80001
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "Russian-Roulette",
+        "name": "Russian Roulette",
+        "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146334344072400946/swirlygun-removebg-preview.png",
+        "price": 1.59,
+        "items": [
+            {
+                "name": "Swirlygun",
+                "color": "orange",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146334344072400946/swirlygun-removebg-preview.png",
+                "price": 6.48,
+                "ticketsEnd": 16670,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Heartblade",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146334494341746718/heartblade-removebg-preview.png",
+                "price": 0.24,
+                "ticketsEnd": 33336,
+                "ticketsStart": 16671
+            },
+            {
+                "name": "Snakebite Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146331478486155354/snakebiteknife-removebg-preview.png",
+                "price": 0.14,
+                "ticketsEnd": 50002,
+                "ticketsStart": 33337
+            },
+            {
+                "name": "Iceflake",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146335083385593866/iceflake-removebg-preview.png",
+                "price": 0.13,
+                "ticketsEnd": 66668,
+                "ticketsStart": 50003
+            },
+            {
+                "name": "Glitch",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/glitch.png",
+                "price": 0.1,
+                "ticketsEnd": 83334,
+                "ticketsStart": 66669
+            },
+            {
+                "name": "Gingerbread Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146335225710923806/2019gbknife-removebg-preview.png",
+                "price": 0.09,
+                "ticketsEnd": 100000,
+                "ticketsStart": 83335
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "Fire-Flip",
+        "name": "Fire Flip",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867321610354708/New_Project_-_2023-09-19T212557.243.png",
+        "price": 1.43,
+        "items": [
+            {
+                "name": "Candle Flame",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/candleflame.png",
+                "price": 2.45,
+                "ticketsEnd": 50000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Pumpkin",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146335690574024807/pumpkin.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 50001
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "Cookie-Crumble",
+        "name": "Cookie Crumble",
+        "image": "https://www.mm2values.com/img/ChromaCookiecane.png",
+        "price": 2.46,
+        "items": [
+            {
+                "name": "Chroma Cookiecane",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/ChromaCookiecane.png",
+                "price": 10.15,
+                "ticketsEnd": 15000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Gingermint",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/Gingermint.png",
+                "price": 3.85,
+                "ticketsEnd": 20000,
+                "ticketsStart": 15001
+            },
+            {
+                "name": "Candleflame",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/candleflame.png",
+                "price": 2.45,
+                "ticketsEnd": 25000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Sakura",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Sakura.png",
+                "price": 1.8,
+                "ticketsEnd": 30000,
+                "ticketsStart": 25001
+            },
+            {
+                "name": "Hallowscythe",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146573297841094686/hallowscythe-fotor-bg-remover-20230830183249.png",
+                "price": 0.26,
+                "ticketsEnd": 39000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Log Chopper",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146572930587828224/logchopper-removebg-preview.png",
+                "price": 0.14,
+                "ticketsEnd": 48000,
+                "ticketsStart": 39001
+            },
+            {
+                "name": "Cavern Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146572778875658321/cavernknife-removebg-preview.png",
+                "price": 0.12,
+                "ticketsEnd": 57000,
+                "ticketsStart": 48001
+            },
+            {
+                "name": "Frozen Gun",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/frozengun.png",
+                "price": 0.12,
+                "ticketsEnd": 66000,
+                "ticketsStart": 57001
+            },
+            {
+                "name": "Brains 2019",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146585397569277973/2019brains-removebg-preview.png",
+                "price": 0.05,
+                "ticketsEnd": 75000,
+                "ticketsStart": 66001
+            },
+            {
+                "name": "Gifts Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146572582825512971/giftsknife-removebg-preview.png",
+                "price": 0.03,
+                "ticketsEnd": 84000,
+                "ticketsStart": 75001
+            },
+            {
+                "name": "Box of Red Papers",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/redwrap.png",
+                "price": 0.02,
+                "ticketsEnd": 92000,
+                "ticketsStart": 84000
+            },
+            {
+                "name": "Box of Green Papers",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/greenwrap.png",
+                "price": 0.01,
+                "ticketsEnd": 100000,
+                "ticketsStart": 92001
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "slug": "57-Small",
+        "name": "57% Small",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867320725356654/New_Project_-_2023-09-19T214309.991.png",
+        "price": 0.32,
+        "items": [
+            {
+                "name": "Glitch 2",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/glitch2.png",
+                "price": 0.7,
+                "ticketsEnd": 12710,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Icebreaker",
+                "color": "pink",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333886117335040/icebreaker-removebg-preview_1.png",
+                "price": 0.53,
+                "ticketsEnd": 28110,
+                "ticketsStart": 12711
+            },
+            {
+                "name": "Elderwood Scythe",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/ewscythe.png",
+                "price": 0.51,
+                "ticketsEnd": 41460,
+                "ticketsStart": 28111
+            },
+            {
+                "name": "Chroma Slasher",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/chromaslasher.png",
+                "price": 0.39,
+                "ticketsEnd": 56420,
+                "ticketsStart": 41461
+            },
+            {
+                "name": "Fire Bat",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333996272332840/firebat-removebg-preview_1.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 56421
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "slug": "Rainbow",
+        "name": "Rainbow",
+        "image": "https://www.mm2values.com/img/ChromaElderwoodBlade.png",
+        "price": 0.55,
+        "items": [
+            {
+                "name": "Chroma Elderwood Blade",
+                "color": "red",
+                "image": "https://www.mm2values.com/img/ChromaElderwoodBlade.png",
+                "price": 12.2,
+                "ticketsEnd": 500,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Rainbow Gun",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/rainbowgun.png",
+                "price": 0.77,
+                "ticketsEnd": 25500,
+                "ticketsStart": 501
+            },
+            {
+                "name": "Rainbow Blade",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Rainbowblade.png",
+                "price": 0.75,
+                "ticketsEnd": 50500,
+                "ticketsStart": 25501
+            },
+            {
+                "name": "Snakebite Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146331478486155354/snakebiteknife-removebg-preview.png",
+                "price": 0.14,
+                "ticketsEnd": 100000,
+                "ticketsStart": 50501
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "slug": "Luger-Flip",
+        "name": "Luger Flip",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867320985391176/New_Project_-_2023-09-19T214045.769.png",
+        "price": 0.14,
+        "items": [
+            {
+                "name": "Luger",
+                "color": "gold",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145445698624557117/template11.png",
+                "price": 0.26,
+                "ticketsEnd": 50000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Candies 2016",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/candies16.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 50001
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "slug": "Less-Is-More",
+        "name": "Less Is More",
+        "image": "https://www.mm2values.com/img/rainbowgun.png",
+        "price": 3.78,
+        "items": [
+            {
+                "name": "Zombie Bat",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Bat_Zombie.png",
+                "price": 8.7,
+                "ticketsEnd": 20000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Makeshift",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/Makeshift.png",
+                "price": 5.6,
+                "ticketsEnd": 30000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Swirlyblade",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146327879936901120/swirlyblade-removebg-preview.png",
+                "price": 2.27,
+                "ticketsEnd": 40000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Cookiecane",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/Cookiecane.png",
+                "price": 1.35,
+                "ticketsEnd": 55000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Spectre",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/Spectre.png",
+                "price": 1.0,
+                "ticketsEnd": 85000,
+                "ticketsStart": 55001
+            },
+            {
+                "name": "Box of Ultra Wrap",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/ultrawrap.png",
+                "price": 0.02,
+                "ticketsEnd": 95000,
+                "ticketsStart": 85001
+            },
+            {
+                "name": "Candies 2016",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/candies16.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 95001
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "slug": "Juicer",
+        "name": "Juicer",
+        "image": "https://www.mm2values.com/img/chromagem.png",
+        "price": 0.31,
+        "items": [
+            {
+                "name": "Chroma Gemstone",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/chromagem.png",
+                "price": 0.79,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Sugar",
+                "color": "pink",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145468507065155625/might_be_cooked.png",
+                "price": 0.65,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Cotton Candy",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145469991471304734/Cotton_Candy_KNife.png",
+                "price": 0.49,
+                "ticketsEnd": 30000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Elderwood Revolver",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/ewrev.png",
+                "price": 0.28,
+                "ticketsEnd": 50000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Red Pumpkin 2019",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146328916521386044/2019redpumpkin-removebg-preview.png",
+                "price": 0.14,
+                "ticketsEnd": 60000,
+                "ticketsStart": 50001
+            },
+            {
+                "name": "Green Pumpkin 2019",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146329105982308443/2019greenpumpkin-removebg-preview.png",
+                "price": 0.12,
+                "ticketsEnd": 70000,
+                "ticketsStart": 60001
+            },
+            {
+                "name": "Reindeer",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146330083661971476/rein.png",
+                "price": 0.13,
+                "ticketsEnd": 80000,
+                "ticketsStart": 70001
+            },
+            {
+                "name": "Candies 2016",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/candies16.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 80001
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "slug": "666",
+        "name": "666",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867321333514261/New_Project_-_2023-09-19T212954.928.png",
+        "price": 3.23,
+        "items": [
+            {
+                "name": "Niks Scythe",
+                "color": "red",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145477461795143741/nikssss.png",
+                "price": 3500.0,
+                "ticketsEnd": 2,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Harvester",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/harvester.png",
+                "price": 12.51,
+                "ticketsEnd": 6668,
+                "ticketsStart": 3
+            },
+            {
+                "name": "Icepiercer",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/Icepiercer.png",
+                "price": 11.9,
+                "ticketsEnd": 13334,
+                "ticketsStart": 6669
+            },
+            {
+                "name": "SwirlyAxe",
+                "color": "gold",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146332784701489183/swirlyaxe-removebg-preview_1.png",
+                "price": 6.83,
+                "ticketsEnd": 20000,
+                "ticketsStart": 13335
+            },
+            {
+                "name": "Icebreaker",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333886117335040/icebreaker-removebg-preview_1.png",
+                "price": 0.53,
+                "ticketsEnd": 40000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Elderwood Scythe",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/ewscythe.png",
+                "price": 0.51,
+                "ticketsEnd": 60000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Batwing",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1109610288405303337/1145476500817182811/BATWING_1.png",
+                "price": 0.24,
+                "ticketsEnd": 80000,
+                "ticketsStart": 60001
+            },
+            {
+                "name": "Log Chopper",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/logchopper.png",
+                "price": 0.14,
+                "ticketsEnd": 100000,
+                "ticketsStart": 80000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "slug": "4x",
+        "name": "4x",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867322163986462/New_Project_-_2023-09-19T211717.510.png",
+        "price": 5.28,
+        "items": [
+            {
+                "name": "Harvester",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/harvester.png",
+                "price": 12.51,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Corrupt",
+                "color": "gold",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145534038019411968/corrupt_2.png",
+                "price": 12.25,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Chroma Cookiecane",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/ChromaCookiecane.png",
+                "price": 10.15,
+                "ticketsEnd": 30000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Bat",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Bat_Zombie.png",
+                "price": 8.7,
+                "ticketsEnd": 40000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "SwirlyAxe",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146332784701489183/swirlyaxe-removebg-preview_1.png",
+                "price": 6.83,
+                "ticketsEnd": 50000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Black Cat",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146327585626783795/image-PhotoRoom.png-PhotoRoom.png",
+                "price": 0.1,
+                "ticketsEnd": 75000,
+                "ticketsStart": 50001
+            },
+            {
+                "name": "Zombie Dog",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146326859483725824/zombiedog-removebg-preview.png",
+                "price": 0.16,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "slug": "Beginners-Luck",
+        "name": "Beginners Luck",
+        "image": "https://www.mm2values.com/img/chromaluger.png",
+        "price": 0.32,
+        "items": [
+            {
+                "name": "Chroma Luger",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/chromaluger.png",
+                "price": 0.93,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Ocean",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Ocean_gun.png",
+                "price": 0.88,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Elderwood Scythe",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/ewscythe.png",
+                "price": 0.51,
+                "ticketsEnd": 30000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Chroma Tides",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/chromatides.png",
+                "price": 0.47,
+                "ticketsEnd": 40000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Vampire Bat",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146328333420863561/vampirebat-removebg-preview.png",
+                "price": 0.16,
+                "ticketsEnd": 50000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Seahorsey",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145542327113359460/SEAHORSE.png",
+                "price": 0.02,
+                "ticketsEnd": 75000,
+                "ticketsStart": 50001
+            },
+            {
+                "name": "Piggy",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145541370665242704/PIG.png",
+                "price": 0.02,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "slug": "Corruption",
+        "name": "Corruption",
+        "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145534038019411968/corrupt_2.png",
+        "price": 2.13,
+        "items": [
+            {
+                "name": "Corrupt",
+                "color": "gold",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145534038019411968/corrupt_2.png",
+                "price": 12.25,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Seahorsey",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145542327113359460/SEAHORSE.png",
+                "price": 0.09,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Chroma Heat",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/chromaheat.png",
+                "price": 0.88,
+                "ticketsEnd": 35000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Chroma Laser",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/chromalaser.png",
+                "price": 0.75,
+                "ticketsEnd": 50000,
+                "ticketsStart": 35001
+            },
+            {
+                "name": "Icebreaker",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333886117335040/icebreaker-removebg-preview_1.png",
+                "price": 0.53,
+                "ticketsEnd": 70001,
+                "ticketsStart": 50001
+            },
+            {
+                "name": "Candycane",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145830757676359731/CANDY.png",
+                "price": 0.68,
+                "ticketsEnd": 100000,
+                "ticketsStart": 70001
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "slug": "333",
+        "name": "333",
+        "image": "https://cdn.discordapp.com/attachments/1153856282722324580/1153867321887166494/New_Project_-_2023-09-19T212125.764.png",
+        "price": 5.55,
+        "items": [
+            {
+                "name": "Icepiercer",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Icepiercer.png",
+                "price": 11.9,
+                "ticketsEnd": 11000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Chroma Cookiecane",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/ChromaCookiecane.png",
+                "price": 10.15,
+                "ticketsEnd": 22000,
+                "ticketsStart": 11001
+            },
+            {
+                "name": "Bat",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Bat_Zombie.png",
+                "price": 8.7,
+                "ticketsEnd": 33000,
+                "ticketsStart": 22001
+            },
+            {
+                "name": "Elderwood Blade",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/ElderwoodBlade.png",
+                "price": 5.55,
+                "ticketsEnd": 44000,
+                "ticketsStart": 33001
+            },
+            {
+                "name": "Gingermint",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Gingermint.png",
+                "price": 3.68,
+                "ticketsEnd": 56000,
+                "ticketsStart": 44001
+            },
+            {
+                "name": "Candleflame",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/candleflame.png",
+                "price": 2.45,
+                "ticketsEnd": 67000,
+                "ticketsStart": 56001
+            },
+            {
+                "name": "Santa Pet",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/santapet.png",
+                "price": 0.16,
+                "ticketsEnd": 78000,
+                "ticketsStart": 67001
+            },
+            {
+                "name": "Ghosty",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/ghostyPet.png",
+                "price": 0.07,
+                "ticketsEnd": 89000,
+                "ticketsStart": 78001
+            },
+            {
+                "name": "Chroma Fire Pig",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145838130050637854/FIREPIG.png",
+                "price": 0.05,
+                "ticketsEnd": 100000,
+                "ticketsStart": 89001
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "slug": "Lost-King",
+        "name": "Lost King",
+        "image": "https://www.mm2values.com/img/Gingermint.png",
+        "price": 0.44,
+        "items": [
+            {
+                "name": "Gingermint",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/Gingermint.png",
+                "price": 3.68,
+                "ticketsEnd": 1000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Phantom",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Phantom_Shop.png",
+                "price": 1.0,
+                "ticketsEnd": 2000,
+                "ticketsStart": 1001
+            },
+            {
+                "name": "Ocean",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/Ocean_gun.png",
+                "price": 0.88,
+                "ticketsEnd": 3000,
+                "ticketsStart": 2001
+            },
+            {
+                "name": "Rainbow Blade",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/Rainbowblade.png",
+                "price": 0.75,
+                "ticketsEnd": 4000,
+                "ticketsStart": 3001
+            },
+            {
+                "name": "Glitch 2",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/glitch2.png",
+                "price": 0.7,
+                "ticketsEnd": 5000,
+                "ticketsStart": 4001
+            },
+            {
+                "name": "Candycane",
+                "color": "pink",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145830757676359731/CANDY.png",
+                "price": 0.68,
+                "ticketsEnd": 7000,
+                "ticketsStart": 5001
+            },
+            {
+                "name": "Sugar",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145468507065155625/might_be_cooked.png",
+                "price": 0.65,
+                "ticketsEnd": 9000,
+                "ticketsStart": 7001
+            },
+            {
+                "name": "Icebreaker",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333886117335040/icebreaker-removebg-preview_1.png",
+                "price": 0.53,
+                "ticketsEnd": 12000,
+                "ticketsStart": 9001
+            },
+            {
+                "name": "Elderwood Scythe",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/ewscythe.png",
+                "price": 0.51,
+                "ticketsEnd": 15000,
+                "ticketsStart": 12001
+            },
+            {
+                "name": "Chroma Fang",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/chromafang.png",
+                "price": 0.51,
+                "ticketsEnd": 55000,
+                "ticketsStart": 15001
+            },
+            {
+                "name": "Toxic Knife",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145871597706674247/toxic_knife.png",
+                "price": 0.35,
+                "ticketsEnd": 60000,
+                "ticketsStart": 55001
+            },
+            {
+                "name": "Candies 2016",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/candies16.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 60001
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "slug": "Perc-30",
+        "name": "Perc 30",
+        "image": "https://www.mm2values.com/img/ElderwoodBlade.png",
+        "price": 0.65,
+        "items": [
+            {
+                "name": "Candleflame",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/ElderwoodBlade.png",
+                "price": 2.45,
+                "ticketsEnd": 15000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Sugar",
+                "color": "purple",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145468507065155625/might_be_cooked.png",
+                "price": 0.65,
+                "ticketsEnd": 30000,
+                "ticketsStart": 15001
+            },
+            {
+                "name": "Mechbug",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145922562585538591/spider.png",
+                "price": 0.06,
+                "ticketsEnd": 44000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Chroma Fire Pig",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145838130050637854/FIREPIG.png",
+                "price": 0.05,
+                "ticketsEnd": 58000,
+                "ticketsStart": 44001
+            },
+            {
+                "name": "Box of Ultra Wrap",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/ultrawrap.png",
+                "price": 0.02,
+                "ticketsEnd": 72000,
+                "ticketsStart": 58001
+            },
+            {
+                "name": "UFO",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145921593000865842/ufo.png",
+                "price": 0.02,
+                "ticketsEnd": 86000,
+                "ticketsStart": 72001
+            },
+            {
+                "name": "Mr.Snowman",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/Mrsnowman.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 86001
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "slug": "GOD-DID",
+        "name": "GOD DID",
+        "image": "https://www.mm2values.com/img/Gingermint.png",
+        "price": 0.93,
+        "items": [
+            {
+                "name": "Gingermint",
+                "color": "red",
+                "image": "https://www.mm2values.com/img/Gingermint.png",
+                "price": 3.68,
+                "ticketsEnd": 5000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Candleflame",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/ElderwoodBlade.png",
+                "price": 2.45,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001
+            },
+            {
+                "name": "Blossom",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/BlossomGun.png",
+                "price": 1.85,
+                "ticketsEnd": 15000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Chroma Lightbringer",
+                "color": "pink",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146237737511432213/lighitbringer.png",
+                "price": 1.51,
+                "ticketsEnd": 20000,
+                "ticketsStart": 15001
+            },
+            {
+                "name": "Cookiecane",
+                "color": "pink",
+                "image": "https://www.mm2values.com/img/Cookiecane.png",
+                "price": 1.35,
+                "ticketsEnd": 25000,
+                "ticketsStart": 20001
+            },
+            {
+                "name": "Phantom",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Phantom_Shop.png",
+                "price": 1.0,
+                "ticketsEnd": 30000,
+                "ticketsStart": 25001
+            },
+            {
+                "name": "Chroma Heat",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/chromaheat.png",
+                "price": 0.88,
+                "ticketsEnd": 35000,
+                "ticketsStart": 30001
+            },
+            {
+                "name": "Rainbow Gun",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/rainbowgun.png",
+                "price": 0.77,
+                "ticketsEnd": 40000,
+                "ticketsStart": 35001
+            },
+            {
+                "name": "Rainbow Blade",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/Rainbowblade.png",
+                "price": 0.75,
+                "ticketsEnd": 45000,
+                "ticketsStart": 40001
+            },
+            {
+                "name": "Sugar",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145468507065155625/might_be_cooked.png",
+                "price": 0.65,
+                "ticketsEnd": 50000,
+                "ticketsStart": 45001
+            },
+            {
+                "name": "Icebreaker",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146333886117335040/icebreaker-removebg-preview_1.png",
+                "price": 0.53,
+                "ticketsEnd": 55000,
+                "ticketsStart": 50001
+            },
+            {
+                "name": "Luger",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1145441295440031815/Luger.png",
+                "price": 0.26,
+                "ticketsEnd": 60000,
+                "ticketsStart": 55001
+            },
+            {
+                "name": "Rudolph",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146328697801027604/rudolph-removebg-preview.png",
+                "price": 0.12,
+                "ticketsEnd": 65000,
+                "ticketsStart": 60001
+            },
+            {
+                "name": "Candies 2016",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/candies16.png",
+                "price": 0.0,
+                "ticketsEnd": 100000,
+                "ticketsStart": 65001
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "slug": "You'll-Hit-Trust",
+        "name": "You'll Hit Trust",
+        "image": "https://www.mm2values.com/img/ewrev.png",
+        "price": 0.12,
+        "items": [
+            {
+                "name": "Elderwood Revolver",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/ewrev.png",
+                "price": 0.28,
+                "ticketsEnd": 10000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Minty",
+                "color": "blue",
+                "image": "https://cdn.discordapp.com/attachments/1145441235788640286/1146328090604220537/minty-removebg-preview.png",
+                "price": 0.12,
+                "ticketsEnd": 50000,
+                "ticketsStart": 10001
+            },
+            {
+                "name": "Eternal Cane",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/eternalcane.png",
+                "price": 0.08,
+                "ticketsEnd": 100000,
+                "ticketsStart": 50001
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "slug": "Money-Back-run-It-Back",
+        "name": "Money Back Run It Back",
+        "image": "https://www.mm2values.com/img/ewrev.png",
+        "price": 0.91,
+        "items": [
+            {
+                "name": "Elderwood Revolver",
+                "color": "orange",
+                "image": "https://www.mm2values.com/img/ewrev.png",
+                "price": 5.6,
+                "ticketsEnd": 2000,
+                "ticketsStart": 0
+            },
+            {
+                "name": "Gingermint",
+                "color": "gold",
+                "image": "https://www.mm2values.com/img/Gingermint.png",
+                "price": 3.68,
+                "ticketsEnd": 4000,
+                "ticketsStart": 2001
+            },
+            {
+                "name": "Chroma Luger",
+                "color": "purple",
+                "image": "https://www.mm2values.com/img/chromaluger.png",
+                "price": 0.93,
+                "ticketsEnd": 49000,
+                "ticketsStart": 4001
+            },
+            {
+                "name": "Chroma Tides",
+                "color": "blue",
+                "image": "https://www.mm2values.com/img/chromatides.png",
+                "price": 0.47,
+                "ticketsEnd": 100000,
+                "ticketsStart": 49001
+            }
+        ]
+    }
+]

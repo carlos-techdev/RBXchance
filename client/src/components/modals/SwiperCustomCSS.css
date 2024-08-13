@@ -1,0 +1,30 @@
+.swiper {
+    width: 200px;
+    height: 240px;
+    border-radius: 20px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    background: repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0, 0, 0, .08) 0, rgba(0, 0, 0, .08) 20px);
+}
+
+.swiper-slide:nth-child(1n) {
+    background-color: #31363c;
+    border-radius: 20px;
+    border: 1px dashed #ffffff;
+}
+
+.swiper-button-next {
+    right: -120px;
+}
+
+.swiper-button-prev {
+    left: -120px;
+}

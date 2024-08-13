@@ -1,0 +1,4621 @@
+{
+  "Glitch2": {
+      "display_name": "Glitch2",
+      "thumbnail": "https://i.ibb.co/4R0h4YB/Glitch.png",
+      "value": 275,
+      "unstable": false
+  },
+  "Nuke_G_2023": {
+      "display_name": "Nuke",
+      "thumbnail": "https://i.ibb.co/zSdct8K/Nuclear.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bunny2023": {
+      "display_name": "Carrot Bunny",
+      "thumbnail": "https://i.ibb.co/jf2c7hQ/Carrot-Bunny.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Broken_K_2023": {
+      "display_name": "Broken",
+      "thumbnail": "https://tr.rbxcdn.com/ca3ccb16ebe741913935cdfd39ee1dba/420/420/Model/Png",
+      "value": 5
+  },
+  "Rainbow_K": {
+      "display_name": "Rainbow",
+      "thumbnail": "https://i.ibb.co/Jc32pw8/Rainbow-Knife.png",
+      "value": 295,
+      "unstable": false
+  },
+  "Rainbow_G": {
+      "display_name": "Rainbow",
+      "thumbnail": "https://i.ibb.co/Tw8GD5j/Rainbow-Gun.png",
+      "value": 300,
+      "unstable": false
+  },
+  "Chromatic_G_2023": {
+      "display_name": "Chromatic",
+      "thumbnail": "https://i.ibb.co/0qwBZBK/Chromatic-Gun.png",
+      "value": 1,
+      "unstable": false
+  },
+  "Chromatic_K_2023": {
+      "display_name": "Chromatic",
+      "thumbnail": "https://i.ibb.co/qM6rwcG/Chromatic-Knife.png",
+      "value": 1,
+      "unstable": false
+  },
+  "Bio_K_2023": {
+      "display_name": "Biogel",
+      "thumbnail": "https://i.ibb.co/61CYhqc/Biogel.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Nuclear_G_2023": {
+      "display_name": "Nuclear",
+      "thumbnail": "https://i.ibb.co/tD9HrFL/Nuclear.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Painted_G_2023": {
+      "display_name": "Painted",
+      "thumbnail": "https://i.ibb.co/D1HYGHQ/Painted-Gun.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Marble_K_2023": {
+      "display_name": "Marble",
+      "thumbnail": "https://i.ibb.co/gVW9sG6/Marble.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Fragile_K_2023": {
+      "display_name": "Fragile",
+      "thumbnail": "https://i.ibb.co/8c1zLtD/Fragile-Knife.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Carrot_K_2023": {
+      "display_name": "Carrot",
+      "thumbnail": "https://i.ibb.co/GHxhc4Y/Carrot-2023.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Fragile_G_2023": {
+      "display_name": "Fragile",
+      "thumbnail": "https://i.ibb.co/nk0k4bQ/Fragile-Gun.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Painted_K_2023": {
+      "display_name": "Painted",
+      "thumbnail": "https://i.ibb.co/ydpF80C/Painted-Knife.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Heart_K_2023": {
+      "display_name": "Heart",
+      "thumbnail": "https://tr.rbxcdn.com/30709a280d7fc40ce021b27db5a478af/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Teddy2023": {
+      "display_name": "Teddy",
+      "thumbnail": "https://tr.rbxcdn.com/50c4e96ff88b03960f81dcea8790b057/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Rose_K_2023": {
+      "display_name": "Rose",
+      "thumbnail": "https://tr.rbxcdn.com/3fc83aabd0bd64d04a9676c1786ac388/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Love_K_2023": {
+      "display_name": "Love",
+      "thumbnail": "https://tr.rbxcdn.com/3c03462ab29cb7f2eee9405442e1fedd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sakura_K": {
+      "display_name": "Sakura",
+      "thumbnail": "https://tr.rbxcdn.com/4e3a70f7a4141bc56642260080108719/420/420/Model/Png",
+      "value": 420,
+      "unstable": false
+  },
+  "Blossom_G": {
+      "display_name": "Blossom",
+      "thumbnail": "https://tr.rbxcdn.com/0f7ebded9bf61e281313167dbbd52771/420/420/Model/Png",
+      "value": 425,
+      "unstable": false
+  },
+  "SharkSeeker": {
+      "display_name": "SharkSeeker",
+      "thumbnail": "https://tr.rbxcdn.com/e3ae68c6467ff7a3539401b4ba43e08b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RedHallow": {
+      "display_name": "Red Hallow",
+      "thumbnail": "https://tr.rbxcdn.com/d9604e5b34e9ea09a06180f7db4d0922/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BlueSugar": {
+      "display_name": "Blue Sugar",
+      "thumbnail": "https://tr.rbxcdn.com/315338e8d4ed540c8aef14c9bc26762f/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "FangChroma": {
+      "display_name": "Fang",
+      "thumbnail": "https://tr.rbxcdn.com/d32fac1118e50a9314f855c7cabcceb3/420/420/Image/Png",
+      "value": 160,
+      "unstable": false
+  },
+  "PigChroma": {
+      "display_name": "Fire Pig",
+      "thumbnail": "https://i.ibb.co/SN2stfR/Chromafirepig-improved.png",
+      "value": 18,
+      "unstable": false
+  },
+  "WrapPaperBoxRed": {
+      "display_name": "Box of Red Wrapping Paper",
+      "thumbnail": "https://tr.rbxcdn.com/6620c06636396dec0b1e8ad473671425/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "DogFire": {
+      "display_name": "Fire Dog",
+      "thumbnail": "https://i.ibb.co/YLVX1ph/Firedog-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Clan": {
+      "display_name": "Clan",
+      "thumbnail": "https://tr.rbxcdn.com/9cb0546c5b18b6d62eab33ae4ed10173/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Web": {
+      "display_name": "Web",
+      "thumbnail": "https://tr.rbxcdn.com/11863de876566ae45170a36fee8700f5/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "RedIcebreaker": {
+      "display_name": "Icebreaker",
+      "thumbnail": "https://tr.rbxcdn.com/b86e8fb1d5fe5e26f9ac95a8d77d8f37/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Galaxy": {
+      "display_name": "Galaxy",
+      "thumbnail": "https://tr.rbxcdn.com/eead0676547300d6ff2fcba71ea87333/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Monster": {
+      "display_name": "Monster",
+      "thumbnail": "https://tr.rbxcdn.com/1f005892997f399baf34a2c1da71007e/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Watcher_G_2021": {
+      "display_name": "Watcher",
+      "thumbnail": "https://tr.rbxcdn.com/d225983fcd35d791697925eeac36f579/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Skulls_K_2021": {
+      "display_name": "Skulls",
+      "thumbnail": "https://tr.rbxcdn.com/5c66264f96aabf3ba4394f618d325736/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowy": {
+      "display_name": "Snowy",
+      "thumbnail": "https://tr.rbxcdn.com/8a1b40e4e88451e176f4fc1ca7feacc6/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "SilverHallow": {
+      "display_name": "Silver Hallow",
+      "thumbnail": "https://tr.rbxcdn.com/5f2c07943b9b8823462ef515499e94c7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Patrick": {
+      "display_name": "Patrick",
+      "thumbnail": "https://tr.rbxcdn.com/814ddc86fd23094c8e0135e6c92d30bd/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Abstract": {
+      "display_name": "Abstract",
+      "thumbnail": "https://tr.rbxcdn.com/29a0fe87a554e3a56d790225de838c59/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Brush": {
+      "display_name": "Brush",
+      "thumbnail": "https://tr.rbxcdn.com/c5eac1596daae0a113d46eb13a3b9fa1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ghosts_G_2021": {
+      "display_name": "Wraiths",
+      "thumbnail": "https://tr.rbxcdn.com/5336db10614aad829bdae5c92b3f2c90/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RIP": {
+      "display_name": "RIP",
+      "thumbnail": "https://tr.rbxcdn.com/24d694984f674909bf4f8ce167391718/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Phantom2022": {
+      "display_name": "Phantom",
+      "thumbnail": "https://tr.rbxcdn.com/8008a3b5b5464e4a40fbb156cf88669b/420/420/Model/Png",
+      "value": 350,
+      "unstable": false
+  },
+  "Sparkle1": {
+      "display_name": "Sparkle1",
+      "thumbnail": "https://tr.rbxcdn.com/a668b42ad0025fb73aa51bad5e4683a8/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "SeerChroma": {
+      "display_name": "Seer",
+      "thumbnail": "https://tr.rbxcdn.com/49067840a71e8d310ba8cb0d701697bf/420/420/Image/Png",
+      "value": 95,
+      "unstable": false
+  },
+  "BronzeIcebreaker": {
+      "display_name": "Icebreaker",
+      "thumbnail": "https://tr.rbxcdn.com/f2f2ab3b7611101fc829353aff53c2b9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Clockwork": {
+      "display_name": "Clockwork",
+      "thumbnail": "https://tr.rbxcdn.com/10ecdb8d19f99e72e8743e643fd7d476/420/420/Model/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Cherry": {
+      "display_name": "Cherry",
+      "thumbnail": "https://tr.rbxcdn.com/7b1578699025f106e9065e502aba6620/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Arctic_K_2022": {
+      "display_name": "Arctic",
+      "thumbnail": "https://tr.rbxcdn.com/5b3ad99278d85e3a0cddf23c0a2470a6/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Slashed_K_2020": {
+      "display_name": "Slashed",
+      "thumbnail": "https://tr.rbxcdn.com/3ceecee1cd34c819b1f9d2a7539ead53/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CamoKnife": {
+      "display_name": "Camo",
+      "thumbnail": "https://tr.rbxcdn.com/df5680172920ac84d16a83a09b0a1f21/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SilverSugar": {
+      "display_name": "Silver Sugar",
+      "thumbnail": "https://tr.rbxcdn.com/e32b4e115613c93c501710014b8b1885/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Squire": {
+      "display_name": "Squire",
+      "thumbnail": "https://tr.rbxcdn.com/3a64fdfb3f6cfafa92ec4860ac1f1118/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Wraith_K_2022": {
+      "display_name": "Wraith",
+      "thumbnail": "https://tr.rbxcdn.com/eadf95fd97d63e954f2a4a1cbce98699/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Tree2017": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/32eb573b6c30eb0e5cbec102b9acc4bd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "UFO": {
+      "display_name": "UFO",
+      "thumbnail": "https://i.ibb.co/1vFYf7v/Ufo2.png",
+      "value": 15,
+      "unstable": false
+  },
+  "MagmaK": {
+      "display_name": "Magma",
+      "thumbnail": "https://tr.rbxcdn.com/9ba76d86fca8c8d7f661c597d2d16563/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Runic_K_2022": {
+      "display_name": "Curse",
+      "thumbnail": "https://tr.rbxcdn.com/d4ecf99be888314f4633bf834bfd883a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "EliteGreen": {
+      "display_name": "Green Elite",
+      "thumbnail": "https://tr.rbxcdn.com/bab2179fa5273af6193cb67e776db3f4/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Bunny": {
+      "display_name": "Bunny",
+      "thumbnail": "https://i.ibb.co/jy5mNM9/Bunny-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Spectral_K_2021": {
+      "display_name": "Spectral",
+      "thumbnail": "https://tr.rbxcdn.com/b16dc01f44fd5bb9bb3f2541ef1d16af/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Plasmablade": {
+      "display_name": "Plasmablade",
+      "thumbnail": "https://tr.rbxcdn.com/06085f52ebf99ec9cf44b2570508dc5a/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Wooden": {
+      "display_name": "Wooden",
+      "thumbnail": "https://tr.rbxcdn.com/590f0a612507f0d78ca53617557f0dce/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Marina": {
+      "display_name": "Marina",
+      "thumbnail": "https://tr.rbxcdn.com/9f9c6b1a2f731b3c6c3f53a8f3b354c3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Prismatic": {
+      "display_name": "Prismatic",
+      "thumbnail": "https://tr.rbxcdn.com/c680fb37db93053845cafecc66320fcc/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "MoltenKnife": {
+      "display_name": "Molten",
+      "thumbnail": "https://tr.rbxcdn.com/c5a9f00aa8324fdc750dfe5853d896c3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Season1TestKnife": {
+      "display_name": "S1 Test Knife",
+      "thumbnail": "https://tr.rbxcdn.com/360d07c3779da36976c6e86c376dbd12/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ghosts_K_2020": {
+      "display_name": "Ghosts",
+      "thumbnail": "https://tr.rbxcdn.com/3aaa20d1c1113a42946ec975e944c267/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SawChroma": {
+      "display_name": "Saw",
+      "thumbnail": "https://tr.rbxcdn.com/7f931fe1430b1b2e41664bdbd71ab01a/420/420/Image/Png",
+      "value": 70,
+      "unstable": false
+  },
+  "Gun1": {
+      "display_name": "Cowboy",
+      "thumbnail": "https://tr.rbxcdn.com/ad3f760f264ce088ac4d33f5a221ff76/420/420/Image/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Brains2019": {
+      "display_name": "Brains",
+      "thumbnail": "https://tr.rbxcdn.com/d09243b57bb377920f7fee8ab2a31fbe/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Mummy": {
+      "display_name": "Mummy",
+      "thumbnail": "https://tr.rbxcdn.com/e837bcebd7ee87046c58e6276710ab87/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Cane": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/99d33092ac280d6e00797fbc99c33b69/420/420/Model/Png",
+      "value": 17,
+      "unstable": false
+  },
+  "Jack_K_2022": {
+      "display_name": "Lantern",
+      "thumbnail": "https://tr.rbxcdn.com/4428f80fcc1bb316b5970c6f7926d081/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Batwing": {
+      "display_name": "Glitch",
+      "thumbnail": "https://tr.rbxcdn.com/e569a86e7aafa489d48033f957c7e7c9/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Piggy": {
+      "display_name": "Piggy",
+      "thumbnail": "https://i.ibb.co/rZHwgnj/Piggy-improved.png",
+      "value": 12,
+      "unstable": false
+  },
+  "BronzeVampiresEdge": {
+      "display_name": "Bronze Vamp's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/d61a7b1c20f6d6f1268daa323a016658/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "EternalCane": {
+      "display_name": "Eternalcane",
+      "thumbnail": "https://tr.rbxcdn.com/4f4c9fd5fb29611a64d28074d92dfaea/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Sparkle8": {
+      "display_name": "Sparkle8",
+      "thumbnail": "https://tr.rbxcdn.com/4e6056415065474b7e8ad453c165ee51/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Whiteout": {
+      "display_name": "Whiteout",
+      "thumbnail": "https://tr.rbxcdn.com/360d07c3779da36976c6e86c376dbd12/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Deathspeaker": {
+      "display_name": "Deathspeaker",
+      "thumbnail": "https://i.ibb.co/FVXrCPN/Korblox-Deathspeaker-Hood.png",
+      "value": 12,
+      "unstable": false
+  },
+  "Sorry": {
+      "display_name": "Corrupt",
+      "thumbnail": "https://tr.rbxcdn.com/5ad741f7db04100daf6a7d65042282f8/420/420/Model/Png",
+      "value": 3700,
+      "unstable": false
+  },
+  "SantasMagic": {
+      "display_name": "Santa's Magic",
+      "thumbnail": "https://tr.rbxcdn.com/7b7a9b9689cea796e2ed012f9c4e96be/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Hazard_G_2022": {
+      "display_name": "Hazard",
+      "thumbnail": "https://tr.rbxcdn.com/94e2059dee77de548d375a16af784a4a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Mistletoe_G_2022": {
+      "display_name": "Mistletoe",
+      "thumbnail": "https://tr.rbxcdn.com/6b32418683937fe7e7dfbc1e87e71223/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflakes_K_2020": {
+      "display_name": "Snowflakes",
+      "thumbnail": "https://tr.rbxcdn.com/c303ae0880cf707b30285e8c46775cea/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "HauntedG": {
+      "display_name": "Haunted",
+      "thumbnail": "https://tr.rbxcdn.com/b8d19a3e083e22b4789f78eb4db552ad/420/420/Model/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Snowbear2021": {
+      "display_name": "Snowbear",
+      "thumbnail": "https://i.ibb.co/B2fmTwM/Snowbear.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Aurora_G_2021": {
+      "display_name": "Aurora",
+      "thumbnail": "https://tr.rbxcdn.com/e4461bd52658aa56f9451e2af25719b7/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Infected": {
+      "display_name": "Infected",
+      "thumbnail": "https://tr.rbxcdn.com/107c80bbfe3ff30ed8e8cd6b09785f5b/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Plasmabeam": {
+      "display_name": "Plasmabeam",
+      "thumbnail": "https://tr.rbxcdn.com/b75d8d38bb0d57fb8b0b9a53771a7291/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Santa2017": {
+      "display_name": "Santa",
+      "thumbnail": "https://tr.rbxcdn.com/60c2b0ab90b944ef447d8215f02b571f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Pumpkin_K_2020": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://tr.rbxcdn.com/94303ac8bb5bf0198135aa67a62ac59d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Xmas": {
+      "display_name": "Xmas",
+      "thumbnail": "https://tr.rbxcdn.com/a95e2e6ac993baa70d9afaecc4f5246a/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "BronzeIceblaster": {
+      "display_name": "Iceblaster",
+      "thumbnail": "https://tr.rbxcdn.com/1658dd97892b4d59ea101684f4b405ec/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Doritos": {
+      "display_name": "Purple",
+      "thumbnail": "https://tr.rbxcdn.com/9fa2edf301a1d096490c7eae612731fe/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Combat2": {
+      "display_name": "Combat II",
+      "thumbnail": "https://tr.rbxcdn.com/16cc1424c7c7b50c4323315acfee115b/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Gothic_K_2021": {
+      "display_name": "Gothic",
+      "thumbnail": "https://tr.rbxcdn.com/0f2a401f5d9b5c85398b1e8d55618955/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BronzeHarvester": {
+      "display_name": "Bronze Harvester",
+      "thumbnail": "https://tr.rbxcdn.com/8c414ca032c7ae6b76152def56dbb98c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Paper": {
+      "display_name": "Paper",
+      "thumbnail": "https://tr.rbxcdn.com/788335dba3805d0a70f423c2ff295a4a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Musical": {
+      "display_name": "Musical",
+      "thumbnail": "https://tr.rbxcdn.com/6157da99c7411d4a25db35ea9ed7585f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Brains_G_2022": {
+      "display_name": "Brains",
+      "thumbnail": "https://tr.rbxcdn.com/0310e537446f3b4bb7e361e5cd7e1431/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle6": {
+      "display_name": "Sparkle6",
+      "thumbnail": "https://tr.rbxcdn.com/ea4c1f6b09144adacc19366c81a7a160/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Camo": {
+      "display_name": "Camo",
+      "thumbnail": "https://tr.rbxcdn.com/6341974235774c844a2f3fe5279b9300/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Skelly": {
+      "display_name": "Skelly",
+      "thumbnail": "https://i.ibb.co/R9YTgVF/Skelly-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Nutcracker": {
+      "display_name": "Nutcracker",
+      "thumbnail": "https://tr.rbxcdn.com/f418fa2eb43f620916f72f86da917f51/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "BattleAxe2": {
+      "display_name": "BattleAxe II",
+      "thumbnail": "https://tr.rbxcdn.com/6dd75ffaa15a46b2914b3b220d3cda37/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Amerilaser": {
+      "display_name": "Amerilaser",
+      "thumbnail": "https://tr.rbxcdn.com/a73e512540388996aaf34c5bccce39bc/420/420/Model/Png",
+      "value": 60,
+      "unstable": false
+  },
+  "Gift_G_2020": {
+      "display_name": "Wrap",
+      "thumbnail": "https://tr.rbxcdn.com/f96f6a5332df7a5f91042887d4a270aa/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Stickers_K_2022": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/cbd21430faf58c5a49e5afa0d9137ac7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Candies": {
+      "display_name": "Candies",
+      "thumbnail": "https://tr.rbxcdn.com/d273cb31ead637346374edb43446b414/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "HeartBalloon": {
+      "display_name": "<3",
+      "thumbnail": "https://i.ibb.co/xXM0nC0/Fdxg.png",
+      "value": 25,
+      "unstable": false
+  },
+  "GhostG2018": {
+      "display_name": "Ghost",
+      "thumbnail": "https://tr.rbxcdn.com/1f4e2e399da61f77f4d4d4d18b84ef53/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Cheddar": {
+      "display_name": "Cheddar",
+      "thumbnail": "https://tr.rbxcdn.com/20afd792b41d1eebefcc719dac16b01d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Coal_K_2021": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/714ba3735e2dfe53d241aee9232e5b1f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Elf": {
+      "display_name": "Elf",
+      "thumbnail": "https://tr.rbxcdn.com/9481436b66c11374312857de214e394c/420/420/Model/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Pine_K_2019": {
+      "display_name": "Pine",
+      "thumbnail": "https://tr.rbxcdn.com/96550bd8b041634bada3ca250b9d6192/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "FoxFire": {
+      "display_name": "Fire Fox",
+      "thumbnail": "https://i.ibb.co/7YfsLWM/Fire-Fox-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Saw": {
+      "display_name": "Saw",
+      "thumbnail": "https://tr.rbxcdn.com/09303bd0911ebc72b612085675614e3a/420/420/Image/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Wrapped_G_2018": {
+      "display_name": "Wrapped",
+      "thumbnail": "https://tr.rbxcdn.com/0569d96b8660c6b1c86dac262ae925d8/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Spectrum": {
+      "display_name": "Spectrum",
+      "thumbnail": "https://tr.rbxcdn.com/36017c7736d8abbaa0639f240ac983d9/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "PredatorKnife": {
+      "display_name": "Predator",
+      "thumbnail": "https://tr.rbxcdn.com/546e3b95a2486986cb77fb61d008fe13/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Apoc_G_2022": {
+      "display_name": "Apocalypse",
+      "thumbnail": "https://tr.rbxcdn.com/0a6e21d6c982e308787f53fff9653346/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Tulip": {
+      "display_name": "Tulip",
+      "thumbnail": "https://tr.rbxcdn.com/be6d5ea0b648a4b663039f0aac55d490/420/420/Model/Png",
+      "value": 18,
+      "unstable": false
+  },
+  "Zombie_K_2021": {
+      "display_name": "Zombie",
+      "thumbnail": "https://tr.rbxcdn.com/510ea14cd5349deb313f3d0e7f69db6a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Vampire": {
+      "display_name": "Vampire",
+      "thumbnail": "https://tr.rbxcdn.com/c0ff45bcbc55412be3ab9dddbac5aeb8/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Haunted_K_2021": {
+      "display_name": "Haunted",
+      "thumbnail": "https://tr.rbxcdn.com/044df40caa6b9ecc84b4c7942a2602da/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ripper_G_2020": {
+      "display_name": "Ripper",
+      "thumbnail": "https://tr.rbxcdn.com/23842f327870b04686db93b0d95869b0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BronzeCandy": {
+      "display_name": "Bronze Candy",
+      "thumbnail": "https://i.ibb.co/bLkYYGX/Bronzecandyy.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle3": {
+      "display_name": "Sparkle3",
+      "thumbnail": "https://tr.rbxcdn.com/7c79c0ce6a99b148d5ec75bd2a72ab58/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "GhostK2018": {
+      "display_name": "Ghost",
+      "thumbnail": "https://tr.rbxcdn.com/e1843e4a8faa324c6e2522d14c8103b7/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Eggs": {
+      "display_name": "Egg",
+      "thumbnail": "https://tr.rbxcdn.com/8a0e1af74856b011d7917a365909bdb0/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Roses": {
+      "display_name": "Roses",
+      "thumbnail": "https://tr.rbxcdn.com/4c8f60b4aa62d15ccef825c836436718/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Hazard_K_2022": {
+      "display_name": "Hazard",
+      "thumbnail": "https://tr.rbxcdn.com/94b492789aaf12eb55620115a908ccdf/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Mistletoe_K_2022": {
+      "display_name": "Mistletoe",
+      "thumbnail": "https://tr.rbxcdn.com/9bed7509e6970017a612dcac35749f22/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Passion": {
+      "display_name": "Passion",
+      "thumbnail": "https://tr.rbxcdn.com/09deb447432e735d44acca5b5e3c0c98/420/420/Model/Png",
+      "value": 18,
+      "unstable": false
+  },
+  "Phaser": {
+      "display_name": "Phaser",
+      "thumbnail": "https://tr.rbxcdn.com/42d5de46ee6c55e90031415c6dd428ec/420/420/Image/Png",
+      "value": 18,
+      "unstable": false
+  },
+  "Fairy": {
+      "display_name": "Fairy",
+      "thumbnail": "https://i.ibb.co/hKtYM5R/Fairy-improved.png",
+      "value": 50,
+      "unstable": false
+  },
+  "Moonlight_G_2022": {
+      "display_name": "Moonlight",
+      "thumbnail": "https://tr.rbxcdn.com/08f18850823e75f2db3eddb8db6019a0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Choco": {
+      "display_name": "Choco",
+      "thumbnail": "https://tr.rbxcdn.com/636d0979a7ef37f258319f0ea0637965/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "ElderwoodGunSilver": {
+      "display_name": "Silver Elderwood",
+      "thumbnail": "https://tr.rbxcdn.com/3b7b5b332d1106ed60dcb367dcb31b94/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eyes_K_2020": {
+      "display_name": "Watcher",
+      "thumbnail": "https://tr.rbxcdn.com/5c4989a672e9ba104b461c07d55fc0e5/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Overseer": {
+      "display_name": "Overseer",
+      "thumbnail": "https://i.ibb.co/1dHMZ2L/Gyuju.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frozen_K_2022": {
+      "display_name": "Frozen",
+      "thumbnail": "https://tr.rbxcdn.com/ac8a83a9bc81b13930fdd6d614f06ca4/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Harvester": {
+      "display_name": "Harvester",
+      "thumbnail": "https://tr.rbxcdn.com/0cf122939e784244bbbb97c07e89de1b/420/420/Model/Png",
+      "value": 3525,
+      "unstable": false
+  },
+  "Sweetheart": {
+      "display_name": "Sweetheart",
+      "thumbnail": "https://tr.rbxcdn.com/a75bf141bd7ada8035d1520619979402/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Neon": {
+      "display_name": "Neon",
+      "thumbnail": "https://tr.rbxcdn.com/d2544203bcaf241f88ce6e0025b2cd7d/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Adurite": {
+      "display_name": "Adurite",
+      "thumbnail": "https://tr.rbxcdn.com/6a1fdd949d6066d0fe290c66bd6f5f97/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Melon": {
+      "display_name": "Melon",
+      "thumbnail": "https://tr.rbxcdn.com/2967c5c6ea6b8980863bd3f5794bb53c/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "BronzeHallow": {
+      "display_name": "Bronze Hallow",
+      "thumbnail": "https://tr.rbxcdn.com/bad05b3981b4b6a86a2ac933998c7660/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GreenLuger": {
+      "display_name": "Green Luger",
+      "thumbnail": "https://tr.rbxcdn.com/c834af827d00bfbbe4185d87ef435e9c/420/420/Model/Png",
+      "value": 50,
+      "unstable": false
+  },
+  "Emerald": {
+      "display_name": "Emerald",
+      "thumbnail": "https://i.ibb.co/ysq4nNp/Emerald-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Carved_G_2020": {
+      "display_name": "Carved",
+      "thumbnail": "https://tr.rbxcdn.com/b37a4e0f095d7e1fa30e0e9a4a43af73/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Darkness_G_2022": {
+      "display_name": "Darkness",
+      "thumbnail": "https://tr.rbxcdn.com/bdbce087ad018e8aefcc9053130b4769/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RedPumpkin2021": {
+      "display_name": "Red Pumpkin",
+      "thumbnail": "https://i.ibb.co/ZMVtynw/Red-Pumpkin2021.png",
+      "value": 0,
+      "unstable": false
+  },
+  "PotionG2018": {
+      "display_name": "Potion",
+      "thumbnail": "https://i.ibb.co/TtVJKD6/Potion-Gun.png",
+      "value": 15,
+      "unstable": false
+  },
+  "Bones": {
+      "display_name": "Bones",
+      "thumbnail": "https://tr.rbxcdn.com/43454e0fee3bdffa9be7e2b772fc590a/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "FallCamo_G_2021": {
+      "display_name": "Fall Camo",
+      "thumbnail": "https://tr.rbxcdn.com/f8b455e50eca489a15d120a4fce7a559/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SlimeK": {
+      "display_name": "Slime",
+      "thumbnail": "https://tr.rbxcdn.com/95e617aa586ffe49d60396d9bbe273f3/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "CandySwirl_K_2019": {
+      "display_name": "Candy Swirl",
+      "thumbnail": "https://tr.rbxcdn.com/2f3d853187f18cf7949b453797682171/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Darkbringer": {
+      "display_name": "Darkbringer",
+      "thumbnail": "https://tr.rbxcdn.com/d01268d2369adae25e9cebd38d222a28/420/420/Image/Png",
+      "value": 75,
+      "unstable": false
+  },
+  "News": {
+      "display_name": "News",
+      "thumbnail": "https://tr.rbxcdn.com/ef9794ff0fb52dc2f7128c2410661d6d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Peppermint": {
+      "display_name": "Peppermint",
+      "thumbnail": "https://tr.rbxcdn.com/e0a8dcfc7d26a8cb7430dda708111a90/420/420/Model/Png",
+      "value": 6,
+      "unstable": false
+  },
+  "Giftwrap_K_2021": {
+      "display_name": "Giftwrap",
+      "thumbnail": "https://tr.rbxcdn.com/348c42ff53e1d22373378d33577b6072/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Chill": {
+      "display_name": "Chill",
+      "thumbnail": "https://tr.rbxcdn.com/ad5d2df2890708b9c2b660b75575fbe7/420/420/Model/Png",
+      "value": 28,
+      "unstable": false
+  },
+  "Ornament2Gun": {
+      "display_name": "Ornament2",
+      "thumbnail": "https://tr.rbxcdn.com/00b44ef9684832a0ee260f3efed598bc/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "SilentNight_G_2020": {
+      "display_name": "Silent Night",
+      "thumbnail": "https://tr.rbxcdn.com/5de976c8a6b80b941eea173195347e66/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "BlueCandy": {
+      "display_name": "Blue Candy",
+      "thumbnail": "https://tr.rbxcdn.com/ba95b30421408368ab9cb0f8de430c17/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GreenPumpkin19": {
+      "display_name": "Green Pumpkin",
+      "thumbnail": "https://i.ibb.co/RNdnPgn/Hgdg.png",
+      "value": 45,
+      "unstable": false
+  },
+  "BonebladeChroma": {
+      "display_name": "Boneblade",
+      "thumbnail": "https://i.ibb.co/ScrJxzW/Chroma-Boneblade.png",
+      "value": 80	,
+      "unstable": false
+  },
+  "Gift_K_2020": {
+      "display_name": "Wrap",
+      "thumbnail": "https://tr.rbxcdn.com/75324fef074f8a303a265a9216d4ddec/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ElderwoodGunGold": {
+      "display_name": "Gold Elderwood",
+      "thumbnail": "https://tr.rbxcdn.com/05dd8faf6eb4bc2726d0a9434f237edc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RBKnife": {
+      "display_name": "RB Knife",
+      "thumbnail": "https://tr.rbxcdn.com/12db6d01904110de6f87e8419a19a214/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bones2019": {
+      "display_name": "Bones",
+      "thumbnail": "https://tr.rbxcdn.com/119a10344be28c870d8d15c59843e146/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Pengy": {
+      "display_name": "Pengy",
+      "thumbnail": "https://i.ibb.co/vv6xhSJ/Pengy-improved.png",
+      "value": 30,
+      "unstable": false
+  },
+  "Cheesy": {
+      "display_name": "Cheesy",
+      "thumbnail": "https://tr.rbxcdn.com/ed60c126af5a17cbee299c914626d829/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "TreeGun": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/03895ce0eec6dee181ccb4a7fbfa71a8/420/420/Model/Png",
+      "value": 17,
+      "unstable": false
+  },
+  "TimeKnife": {
+      "display_name": "Prince",
+      "thumbnail": "https://tr.rbxcdn.com/f5ac3bc087dd706f6165d5d29ff03ab0/420/420/Image/Png",
+      "value": 17,
+      "unstable": false
+  },
+  "SnowmanGun": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/b0e2b3e4bcda0d8af0b02d090084d91e/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Pepper": {
+      "display_name": "Brown",
+      "thumbnail": "https://tr.rbxcdn.com/945f913c06f6d7bb75ef66e5f03bea3f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "HighTech": {
+      "display_name": "High Tech",
+      "thumbnail": "https://tr.rbxcdn.com/ecf492b9267590e73e338310badae914/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Corl": {
+      "display_name": "Corl",
+      "thumbnail": "https://tr.rbxcdn.com/122d1e1374c8a43ace44dba9fccf463d/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Checker": {
+      "display_name": "Checker",
+      "thumbnail": "https://tr.rbxcdn.com/a70fe85cbaef6589ce902029ba806790/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Graffiti": {
+      "display_name": "Graffiti",
+      "thumbnail": "https://tr.rbxcdn.com/fc7d7284d27e9cbe86d58578b69f27ce/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Combat": {
+      "display_name": "Combat",
+      "thumbnail": "https://tr.rbxcdn.com/084dcf6ab641ac721a363f2db45b66c2/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Witched": {
+      "display_name": "Witched",
+      "thumbnail": "https://tr.rbxcdn.com/6c1a4ba3f762b847857aa465c56896c8/420/420/Model/Png",
+      "value": 70,
+      "unstable": false
+  },
+  "Night": {
+      "display_name": "Night",
+      "thumbnail": "https://tr.rbxcdn.com/ba73f70adafccb1c664e2ff4eb002629/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Biogun": {
+      "display_name": "Biogun",
+      "thumbnail": "https://tr.rbxcdn.com/7038ff9c2da4f5af01306630744c6c1f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowman_K_2022": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/bf6107fc2f3d1ea1e8eaa65d792e5d1a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Pig": {
+      "display_name": "Pig",
+      "thumbnail": "https://i.ibb.co/rk4SLRh/3215087054-1.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Fang": {
+      "display_name": "Fang",
+      "thumbnail": "https://tr.rbxcdn.com/223181f275f0ee299c273e6f4b730398/420/420/Image/Png",
+      "value": 32,
+      "unstable": false
+  },
+  "Aqua": {
+      "display_name": "Aqua",
+      "thumbnail": "https://tr.rbxcdn.com/63aa1e7d9b6c8905cb6daf49d987795a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Overseer Eye": {
+      "display_name": "Overseer Eye",
+      "thumbnail": "https://i.ibb.co/XW7sMCg/Cxv.png",
+      "value": 70,
+      "unstable": false
+  },
+  "Sub": {
+      "display_name": "Sub",
+      "thumbnail": "https://tr.rbxcdn.com/a4a54247f003b3c1f7b22f7c8dd85de4/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "VoidRbx": {
+      "display_name": "Void",
+      "thumbnail": "https://tr.rbxcdn.com/37c5037a57bf5f450983e0a19fe6d8e7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BigKill": {
+      "display_name": "Big Kill",
+      "thumbnail": "https://tr.rbxcdn.com/67d4253e1cf914ccce82d10f0f4bb19b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Skull2021": {
+      "display_name": "Skully",
+      "thumbnail": "https://i.ibb.co/0XYPvYL/Skully-Pet.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bioblade": {
+      "display_name": "Bioblade",
+      "thumbnail": "https://tr.rbxcdn.com/369cf7fd6058ddbb9cf628b2f986df59/420/420/Image/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "SwirlyAxeGold": {
+      "display_name": "Gold Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/939f1401d88373ec33526bc7d534027a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cracks_K_2021": {
+      "display_name": "Cracks",
+      "thumbnail": "https://tr.rbxcdn.com/85aaaf00db7aa55728e97ba231124d9a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Icewing": {
+      "display_name": "Icewing",
+      "thumbnail": "https://tr.rbxcdn.com/46358f57f9c52147a2664c236c84e3cb/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "Lucky": {
+      "display_name": "Lucky",
+      "thumbnail": "https://tr.rbxcdn.com/5f880ff674945200dd41aabd9dfeaab0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bluesteel": {
+      "display_name": "Bluesteel",
+      "thumbnail": "https://tr.rbxcdn.com/fcf1fc4e2b76c35aa6d4fe469d307aee/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Denis": {
+      "display_name": "Denis",
+      "thumbnail": "https://tr.rbxcdn.com/bc11a4ff7da33a09f496a804894644f6/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Scarecrow2020": {
+      "display_name": "Scarecrow",
+      "thumbnail": "https://i.ibb.co/vL1SWWJ/Scarecrow2.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Borders": {
+      "display_name": "Borders",
+      "thumbnail": "https://tr.rbxcdn.com/b2dc9fac89a94e01460cea29100dc951/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "DefaultGun": {
+      "display_name": "Default Gun",
+      "thumbnail": "https://tr.rbxcdn.com/ffacd6124fab44fb1136c28804eb41d2/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GemstoneChroma": {
+      "display_name": "Gemstone",
+      "thumbnail": "https://tr.rbxcdn.com/51e94b8eb06c745341fdb0d7498a51ea/420/420/Image/Png",
+      "value": 250,
+      "unstable": false
+  },
+  "Frosted_K_2019": {
+      "display_name": "Frosted",
+      "thumbnail": "https://tr.rbxcdn.com/c81422abd9b641243d58d34c7ec60eeb/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cavern_G_2019": {
+      "display_name": "Cavern",
+      "thumbnail": "https://tr.rbxcdn.com/aaf05932d8eac3958e2f98f195d57798/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "CandyCorn_G_2020": {
+      "display_name": "Candy Corn",
+      "thumbnail": "https://tr.rbxcdn.com/516844a3127ce36af5e90a8da6718dab/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Damp": {
+      "display_name": "Damp",
+      "thumbnail": "https://tr.rbxcdn.com/ba776e2b1f5eede590e015f8a85d315f/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SwirlyGunBronze": {
+      "display_name": "Bronze Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/1f210409d42e4c1716fc2e80c686e47f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Splat": {
+      "display_name": "Splat",
+      "thumbnail": "https://tr.rbxcdn.com/d185b3e570a4611ea01b389b4405a301/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gingerbread_K_2020": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/410c4a77d1e55c0734f982b39705ea89/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Xbox": {
+      "display_name": "Xbox",
+      "thumbnail": "https://tr.rbxcdn.com/9df0a26ea912186ab796b3abbbd5f7e2/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SwirlyAxeBronze": {
+      "display_name": "Bronze Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/7cf95dc5aa45192489074ed4d1cbaa19/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Leaf": {
+      "display_name": "Leaf",
+      "thumbnail": "https://tr.rbxcdn.com/23acd2c4f4004b6fff76f3282f264272/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "XmasStickers_K_2021": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/c686ef372504addb6dc764ad9c5ded37/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "EliteBlue": {
+      "display_name": "Blue Elite",
+      "thumbnail": "https://tr.rbxcdn.com/0ed90ea79e983f844dc8e4ca458eb0f1/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Aurora_G_2019": {
+      "display_name": "Aurora",
+      "thumbnail": "https://tr.rbxcdn.com/b20e148a9891bd806dadd09760ecde87/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "TidesChroma": {
+      "display_name": "Tides",
+      "thumbnail": "https://tr.rbxcdn.com/77ca25251bf382163df5fef547180282/420/420/Image/Png",
+      "value": 145,
+      "unstable": false
+  },
+  "Infected_G_2022": {
+      "display_name": "Infected",
+      "thumbnail": "https://tr.rbxcdn.com/a171018d4e5204b6c8400ec31a34c47d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Tree_K_2022": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/eaf0ca2fda088bc02382edec242ab210/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Reaver": {
+      "display_name": "Reaver",
+      "thumbnail": "https://tr.rbxcdn.com/98d2a04a90c94c8ef5d36bd784af59b3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Missing": {
+      "display_name": "Missing",
+      "thumbnail": "https://tr.rbxcdn.com/859204c339dbe8c1be76317547b05125/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RandomLegendaryWeapon": {
+      "display_name": "Random Legendary Weapon",
+      "thumbnail": "https://i.ibb.co/X52KNHz/Random-Legendary-Weapon-Icon.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Indy": {
+      "display_name": "Indy",
+      "thumbnail": "https://tr.rbxcdn.com/ba6cc97949a42be8a907ea26211134b5/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "WebbedG": {
+      "display_name": "Webbed",
+      "thumbnail": "https://tr.rbxcdn.com/9cb0a4ec5783cbedf0a7d27ec27a871d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "PumpkinPet18": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://tr.rbxcdn.com/44169e2e7714d0aecfca02e6fd363739/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SwirlyAxeBlue": {
+      "display_name": "Blue Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/0b02a24d3a56ba9d9981262fcb49b25c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BattleAxe": {
+      "display_name": "BattleAxe",
+      "thumbnail": "https://tr.rbxcdn.com/86be208080702cee437853113c7f5780/420/420/Model/Png",
+      "value": 18,
+      "unstable": false
+  },
+  "Moon_K_2021": {
+      "display_name": "Moon",
+      "thumbnail": "https://tr.rbxcdn.com/0901065cb8e85ec5c607b22dd01e3ec0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ElderwoodGun": {
+      "display_name": "Elderwood Revolver",
+      "thumbnail": "https://tr.rbxcdn.com/1b9b5aef6ab9620f610ab764a396c990/420/420/Model/Png",
+      "value": 75,
+      "unstable": false
+  },
+  "Gingerbread_G_2020": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://i.ibb.co/hVvcm6F/Gingerbread-Gun2020.png",
+      "value": 0,
+      "unstable": false
+  },
+  "RedP": {
+      "display_name": "Red Pumpkin",
+      "thumbnail": "https://i.ibb.co/B4bXCrC/2513907910.png",
+      "value": 45,
+      "unstable": false
+  },
+  "Gingerbread_G_2021": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/a686cf14de2d7f93d910f25f2ca13a89/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Lights_G_2019": {
+      "display_name": "Lights",
+      "thumbnail": "https://i.ibb.co/vZRM2P4/4534872673.png",
+      "value": 30,
+      "unstable": false
+  },
+  "Coal_G_2022": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/bb4ce5166642421eba91a1b1225e1f98/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hazmat": {
+      "display_name": "Hazmat",
+      "thumbnail": "https://tr.rbxcdn.com/29b45ec6edb1e91c2238cca80539c445/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Portal_G_2020": {
+      "display_name": "Portal",
+      "thumbnail": "https://tr.rbxcdn.com/82043f522a3fcc7d062ac3d1eb5ef5ae/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Mummified": {
+      "display_name": "Mummified",
+      "thumbnail": "https://tr.rbxcdn.com/8d80c49eb19ac0cff4b96f1c0e7eea9c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Candies2017": {
+      "display_name": "Candies",
+      "thumbnail": "https://tr.rbxcdn.com/02efa62b9f9bf452d8442a63e6069070/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bat": {
+      "display_name": "Bat",
+      "thumbnail": "https://i.ibb.co/kcz1dk0/Bat-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "ChromaDarkbringer": {
+      "display_name": "Darkbringer",
+      "thumbnail": "https://tr.rbxcdn.com/a1f345f750a94e929db3a31a441eacd8/420/420/Image/Png",
+      "value": 515,
+      "unstable": false
+  },
+  "Snowman_G_2018": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/710749fa00e75759487ac913ffa2b38e/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Splatter": {
+      "display_name": "Splatter",
+      "thumbnail": "https://tr.rbxcdn.com/43f2007ef4d8f35cc063cae35e270494/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowman": {
+      "display_name": "Snowman",
+      "thumbnail": "https://i.ibb.co/2qtTcyt/Snowmanpet-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Seahorsey": {
+      "display_name": "Seahorsey",
+      "thumbnail": "https://i.ibb.co/N3D2VGQ/Seahorsey-improved.png",
+      "value": 35,
+      "unstable": false
+  },
+  "Steambird": {
+      "display_name": "Steambird",
+      "thumbnail": "https://i.ibb.co/0cQ3DQS/360615840.png",
+      "value": 8,
+      "unstable": false
+  },
+  "VampireBat": {
+      "display_name": "Vampire Bat",
+      "thumbnail": "https://i.ibb.co/gFT04QW/Vampirebat.png",
+      "value": 55,
+      "unstable": false
+  },
+  "Ecto": {
+      "display_name": "Ecto",
+      "thumbnail": "https://tr.rbxcdn.com/b7c7aeefed37697f98a761e22df5d66c/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Gifts_K_2019": {
+      "display_name": "Gifts",
+      "thumbnail": "https://tr.rbxcdn.com/759ee2ea851033abca000063098a8886/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Infiltrator": {
+      "display_name": "Infiltrator",
+      "thumbnail": "https://tr.rbxcdn.com/b0a8e9de26236051c0bd2b0f13dc7a8a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Witch_K_2022": {
+      "display_name": "Witchbrew",
+      "thumbnail": "https://tr.rbxcdn.com/d5b65f2fe318c76bbb2ad8713c5e00e9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Slasher": {
+      "display_name": "Slasher",
+      "thumbnail": "https://tr.rbxcdn.com/3159111d3218b47a07f00cc8a76731da/420/420/Image/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "PurpleP": {
+      "display_name": "Purple Pumpkin",
+      "thumbnail": "https://i.ibb.co/JdBN8Kn/2513907604.png",
+      "value": 90,
+      "unstable": false
+  },
+  "GreenPumpkin2020": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/XbBKDfR/Greenpumpkin2020-improved.png",
+      "value": 1,
+      "unstable": false
+  },
+  "ElfGun": {
+      "display_name": "Elf",
+      "thumbnail": "https://tr.rbxcdn.com/e8e16836a1be3362204c10d2a24d8a35/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Circuit": {
+      "display_name": "Circuit",
+      "thumbnail": "https://tr.rbxcdn.com/cd7767dbcc8da1e1f0c97156cb5f606e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Lugercane": {
+      "display_name": "Lugercane",
+      "thumbnail": "https://tr.rbxcdn.com/2f8ca9fb44be43e7b90d4c1d533a1ecb/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "HeatChroma": {
+      "display_name": "Heat",
+      "thumbnail": "https://tr.rbxcdn.com/8b0dce7907b0d05d59ecdbdab0c51880/420/420/Image/Png",
+      "value": 280,
+      "unstable": false
+  },
+  "Midnight": {
+      "display_name": "Midnight",
+      "thumbnail": "https://tr.rbxcdn.com/68dc64b8fea7b849694f1e6830fc9d5a/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SnowflakeKey": {
+      "display_name": "Snowflake Key 2018",
+      "thumbnail": "https://tr.rbxcdn.com/d1cad3272297796f64e0444a4467da93/420/420/Image/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "GoldIcebreaker": {
+      "display_name": "Icebreaker",
+      "thumbnail": "https://tr.rbxcdn.com/35282df757cfa21587c1300b6fa86e55/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Universe": {
+      "display_name": "Universe",
+      "thumbnail": "https://tr.rbxcdn.com/36955f5a7f7f1da77e9a52a9ebebddc8/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "MummyG2018": {
+      "display_name": "Mummy",
+      "thumbnail": "https://i.ibb.co/C9N6FrR/MG2018.png",
+      "value": 40,
+      "unstable": false
+  },
+  "Dogey": {
+      "display_name": "Dogey",
+      "thumbnail": "https://i.ibb.co/tB2rqtq/Dogey-Transparent.png",
+      "value": 40,
+      "unstable": false
+  },
+  "DefaultKnife": {
+      "display_name": "Default Knife",
+      "thumbnail": "https://tr.rbxcdn.com/a6ef2a289b34a7f02dddde24477ef998/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ghosts_G_2020": {
+      "display_name": "Ghosts",
+      "thumbnail": "https://tr.rbxcdn.com/d966ad722b006621893bc8831a873efa/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Witch": {
+      "display_name": "Witch",
+      "thumbnail": "https://tr.rbxcdn.com/b575acdcb2b2ad939097ff42889a319b/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Pirate": {
+      "display_name": "Pirate",
+      "thumbnail": "https://tr.rbxcdn.com/617b29eb2f55aad222b9a52bff732b52/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BluesteelGun": {
+      "display_name": "Bluesteel",
+      "thumbnail": "https://tr.rbxcdn.com/ff3555cbb1f76ef93d764ff83c71a9be/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ripper_K_2020": {
+      "display_name": "Ripper",
+      "thumbnail": "https://tr.rbxcdn.com/6ac0a3a9b014b4ff4acfcbfa23cedd4e/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Elf2019": {
+      "display_name": "Elf",
+      "thumbnail": "https://i.ibb.co/V2SNxVS/Elf-2019-improved.png",
+      "value": 20,
+      "unstable": false
+  },
+  "LogchopperGold": {
+      "display_name": "Gold Logchopper",
+      "thumbnail": "https://tr.rbxcdn.com/8aa1379a8502c51656f9966601efe74c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Icicles_K_2018": {
+      "display_name": "Icicles",
+      "thumbnail": "https://tr.rbxcdn.com/13a88478c543b6f41610334a7616bf0e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Pea": {
+      "display_name": "Pea",
+      "thumbnail": "https://tr.rbxcdn.com/4fa672147bf36fe5b10282af2c05636d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CandyCorn_G_2022": {
+      "display_name": "Candy Corn",
+      "thumbnail": "https://tr.rbxcdn.com/9f1dcbdf8cc223f55642eb5964a4b62f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ZombifiedK": {
+      "display_name": "Zombified",
+      "thumbnail": "https://tr.rbxcdn.com/0e6f6a83af578e38885a1d86bc1987ed/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Fanta": {
+      "display_name": "Orange",
+      "thumbnail": "https://tr.rbxcdn.com/afd379b69493fa5a582c171cacbe9563/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "MintyBronze": {
+      "display_name": "Bronze Minty",
+      "thumbnail": "https://tr.rbxcdn.com/9be8f8f536c9594e10cf6f04045a8989/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "IceHammer_Godly": {
+      "display_name": "Icecrusher",
+      "thumbnail": "https://tr.rbxcdn.com/4c2f7487d8cc94abeed2cc08758adbff/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Oily": {
+      "display_name": "Oily",
+      "thumbnail": "https://tr.rbxcdn.com/bc54ea1606f26f66d73b045765bf5d57/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Lovely": {
+      "display_name": "Lovely",
+      "thumbnail": "https://tr.rbxcdn.com/9de022660bce11077a7820e9f556ac58/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Giftbag_K_2020": {
+      "display_name": "Gift Bag",
+      "thumbnail": "https://tr.rbxcdn.com/04ee219a0dc9de519f2a2b9255729ebd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Coal_K_2018": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/e74925968a5fa2380e3256e8d6457e6a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "StickersX_G_2022": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/5ef0da81b134378d578bc0415adcbec1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "WrapPaperBoxUltra": {
+      "display_name": "Box of Ultra Wrapping Paper",
+      "thumbnail": "https://tr.rbxcdn.com/24a254340cbf18fec9caced78f36e48b/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "ElderwoodKnife": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/b6631e7a651427e1143be62364465409/420/420/Model/Png",
+      "value": 1650,
+      "unstable": false
+  },
+  "Icebeam": {
+      "display_name": "Icebeam",
+      "thumbnail": "https://tr.rbxcdn.com/44292b123279242c134ea5eb2f3bec9a/420/420/Model/Png",
+      "value": 37,
+      "unstable": false
+  },
+  "Santa": {
+      "display_name": "Santa",
+      "thumbnail": "https://i.ibb.co/tQQF6Gj/4535365003.png",
+      "value": 50,
+      "unstable": false
+  },
+  "ElderwoodKnifeBlue": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/eba8d65356940667de4e08fa189eeaba/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Carrot": {
+      "display_name": "Carrot",
+      "thumbnail": "https://tr.rbxcdn.com/48008a42566005bc93183d5e245e1abf/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "GoldHallow": {
+      "display_name": "Gold Hallow",
+      "thumbnail": "https://tr.rbxcdn.com/c251423ff1ea8465f05e06c7a6c661a3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CatChroma": {
+      "display_name": "Fire Cat",
+      "thumbnail": "https://i.ibb.co/m55LG6S/Chromafirecat-improved.png",
+      "value": 30,
+      "unstable": false
+  },
+  "Nightfire": {
+      "display_name": "Nightfire",
+      "thumbnail": "https://tr.rbxcdn.com/48dbefdfae4f5f764fd7c0555513aeb4/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Makeshift": {
+      "display_name": "Makeshift",
+      "thumbnail": "https://tr.rbxcdn.com/06e571e6f622de5b156327ad0e706d57/420/420/Model/Png",
+      "value": 1750,
+      "unstable": false
+  },
+  "Snowman_K_2018": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/2f0bc0ec46d5a44619e36d40d0097edd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Nebula": {
+      "display_name": "Nebula",
+      "thumbnail": "https://tr.rbxcdn.com/af35914f480bb5d32747f041fe568422/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Sparkle7": {
+      "display_name": "Sparkle7",
+      "thumbnail": "https://tr.rbxcdn.com/ec70e604383ccae59899f3089bbdde16/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Splash_G": {
+      "display_name": "Splash",
+      "thumbnail": "https://tr.rbxcdn.com/9c86577d168175b7b58cdc67747b92ea/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle10": {
+      "display_name": "Sparkle10",
+      "thumbnail": "https://tr.rbxcdn.com/b7b93e99b572c5699bc3b36802606181/420/420/Model/Png",
+      "value": 45,
+      "unstable": false
+  },
+  "SantaDog": {
+      "display_name": "Santa Dog",
+      "thumbnail": "https://i.ibb.co/wYLf3HG/Santadog.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Icecracker_K_2020": {
+      "display_name": "Icecracker",
+      "thumbnail": "https://tr.rbxcdn.com/c3f12be959918c61695652c3f2835e94/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "IceHammer": {
+      "display_name": "Icecrusher",
+      "thumbnail": "https://tr.rbxcdn.com/7029cd07f9e439d16151eb45353c37bc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "WrapPaperBoxBlue": {
+      "display_name": "Box of Blue Wrapping Paper",
+      "thumbnail": "https://tr.rbxcdn.com/950980e7c45ee47054bba2bfc8647037/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "ShadowKnife": {
+      "display_name": "Shadow",
+      "thumbnail": "https://tr.rbxcdn.com/7a5a38de834a63f8e6e3362e1d4ec93b/420/420/Image/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "SwirlyBlade": {
+      "display_name": "Swirly Blade",
+      "thumbnail": "https://tr.rbxcdn.com/2e659fdac196fc8552fa71b280560f06/420/420/Model/Png",
+      "value": 700,
+      "unstable": false
+  },
+  "Bones_K_2020": {
+      "display_name": "Bones",
+      "thumbnail": "https://tr.rbxcdn.com/1ff371cb29b73f89d8f07ce7f24b13d6/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bear": {
+      "display_name": "Bear",
+      "thumbnail": "https://i.ibb.co/qmySbx3/Bear-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "SwirlyGun": {
+      "display_name": "Swirly Gun",
+      "thumbnail": "https://tr.rbxcdn.com/7479f4bbd3a1dd7e2f174261fa71222a/420/420/Model/Png",
+      "value": 1800,
+      "unstable": false
+  },
+  "Mummy_G_2020": {
+      "display_name": "Mummy",
+      "thumbnail": "https://tr.rbxcdn.com/3c7fe1c708536e3651f168eee3fb2d11/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Starry_G_2020": {
+      "display_name": "Starry",
+      "thumbnail": "https://tr.rbxcdn.com/52adbf8fd996dda9a7f33335ebf740df/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LMFAO": {
+      "display_name": "Pink",
+      "thumbnail": "https://tr.rbxcdn.com/a98e66afcc70fc189de7c151233fba28/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sweater_G_2018": {
+      "display_name": "Sweater",
+      "thumbnail": "https://tr.rbxcdn.com/8f151e02fc6af9b019af2a49498a2fe6/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Euro": {
+      "display_name": "Euro",
+      "thumbnail": "https://tr.rbxcdn.com/027d2b081feb0b679bea3a4f08873ce2/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "IceShard": {
+      "display_name": "Ice Shard",
+      "thumbnail": "https://tr.rbxcdn.com/724f1241beafb9bfd097db58d54514cb/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "SantasSpirit": {
+      "display_name": "Santa's Spirit",
+      "thumbnail": "https://tr.rbxcdn.com/24ca1ef33806c3e229c3685fb7f4cbee/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Icepiercer": {
+      "display_name": "Icepiercer",
+      "thumbnail": "https://tr.rbxcdn.com/3e443f3f4c97e22d546aac3ae17fbedc/420/420/Model/Png",
+      "value": 3475,
+      "unstable": false
+  },
+  "Coal": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/8a26438b4a277b1e5f320e9d79cc0340/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snoop": {
+      "display_name": "Red",
+      "thumbnail": "https://tr.rbxcdn.com/f76bdda146c14cc6562b9a6d82a66798/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Giftbag_G_2020": {
+      "display_name": "Gift Bag",
+      "thumbnail": "https://tr.rbxcdn.com/615fecf015b5c54e53c50b54dbc03481/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BatsK": {
+      "display_name": "Bats",
+      "thumbnail": "https://tr.rbxcdn.com/c6d18aa633468368159f2033c2a18fe7/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Clown": {
+      "display_name": "Clown",
+      "thumbnail": "https://tr.rbxcdn.com/384558d6b6141dd293d51482f8b96a7c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frostsaber": {
+      "display_name": "Frostsaber",
+      "thumbnail": "https://tr.rbxcdn.com/506a3cd6d792fe2496b0d857928e2350/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Gingermint_K": {
+      "display_name": "Cookiecane",
+      "thumbnail": "https://tr.rbxcdn.com/2cf594cc2edf6d2078eac57adf25a880/420/420/Model/Png",
+      "value": 400,
+      "unstable": false
+  },
+  "Dartbringer": {
+      "display_name": "Dartbringer",
+      "thumbnail": "https://tr.rbxcdn.com/62dafd12142377a6d48efe02916dd5f4/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Darkness_K_2022": {
+      "display_name": "Darkness",
+      "thumbnail": "https://tr.rbxcdn.com/1010826d73bbba0779cf4c398dc95e56/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frostbite": {
+      "display_name": "Frostbite",
+      "thumbnail": "https://i.ibb.co/wQmZbdp/Frostbite-improved.png",
+      "value": 12,
+      "unstable": false
+  },
+  "SlasherChroma": {
+      "display_name": "Slasher",
+      "thumbnail": "https://tr.rbxcdn.com/74c4611f5dfc37ddc1212215b0ec561c/420/420/Image/Png",
+      "value": 115,
+      "unstable": false
+  },
+  "YellowSeer": {
+      "display_name": "Yellow Seer",
+      "thumbnail": "https://tr.rbxcdn.com/2b11a7cb75a2c49dcb0304f1b1f65118/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Hallowgun": {
+      "display_name": "Hallowgun",
+      "thumbnail": "https://tr.rbxcdn.com/94ac087b3b6aa2eba038dbf46efd0c27/420/420/Model/Png",
+      "value": 45,
+      "unstable": false
+  },
+  "Elf2017": {
+      "display_name": "Elf",
+      "thumbnail": "https://tr.rbxcdn.com/8500558524bb13cde89379e5a1fe7f54/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BlackCat": {
+      "display_name": "Black Cat",
+      "thumbnail": "https://i.ibb.co/xzdFVtG/Black-Cat.png",
+      "value": 40,
+      "unstable": false
+  },
+  "Candied_G_2022": {
+      "display_name": "Candied",
+      "thumbnail": "https://tr.rbxcdn.com/f4d1b23e8fb06c33d38b7dbd6d8fc584/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ace": {
+      "display_name": "Ace",
+      "thumbnail": "https://tr.rbxcdn.com/1b5a37cfee8566fbab037cda74a6c35b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bacon": {
+      "display_name": "Bacon",
+      "thumbnail": "https://tr.rbxcdn.com/8296f8b4997429310e4b6d6f87ab8b13/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "AmericanEagle": {
+      "display_name": "Sammy",
+      "thumbnail": "https://i.ibb.co/5k8MbVK/Sammy-transparent.png",
+      "value": 7,
+      "unstable": false
+  },
+  "GoldCandy": {
+      "display_name": "Gold Candy",
+      "thumbnail": "https://tr.rbxcdn.com/a8af375387049419b02d1ba570e49d12/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CandyCorn2019": {
+      "display_name": "Candy Corn",
+      "thumbnail": "https://tr.rbxcdn.com/6614ef4b1b07ff89ea272a7f4809cbaf/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LogchopperBronze": {
+      "display_name": "Bronze Logchopper",
+      "thumbnail": "https://tr.rbxcdn.com/f85b56c53e3a9e96f9740ddb1ffabdf3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Phoenix": {
+      "display_name": "Phoenix",
+      "thumbnail": "https://i.ibb.co/V3z8n5t/Phoenix-improved.png",
+      "value": 10,
+      "unstable": false
+  },
+  "Pumpkin2021": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/JKgZFFQ/Pumpkin2021.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Present": {
+      "display_name": "Present",
+      "thumbnail": "https://tr.rbxcdn.com/806380b00f76f66f7c357e6bd2018500/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SkeletonKey": {
+      "display_name": "Skeleton Key 2018",
+      "thumbnail": "https://tr.rbxcdn.com/b5fa08a6da8dff80a2b572eff24269f0/420/420/Image/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Swirl_K_2021": {
+      "display_name": "Swirl",
+      "thumbnail": "https://tr.rbxcdn.com/7c36df8bd2201128e20c8100c8d6ac9f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ice": {
+      "display_name": "Ice",
+      "thumbnail": "https://tr.rbxcdn.com/e164ef89ec5991f18afcefa116332e81/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Survivors_K_2022": {
+      "display_name": "Makeshift",
+      "thumbnail": "https://tr.rbxcdn.com/b7ece464256667c3f0a2eb6c5d0241fb/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "HauntedK": {
+      "display_name": "Haunted",
+      "thumbnail": "https://tr.rbxcdn.com/5705fdb4af5c76683580db971e6e3a0b/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "RedSeer": {
+      "display_name": "Red Seer",
+      "thumbnail": "https://tr.rbxcdn.com/a65ac0aeb97fe6ebf307aad351aa0c16/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "GreenP": {
+      "display_name": "Green Pumpkin",
+      "thumbnail": "https://i.ibb.co/qs5wW0d/2513906167.png",
+      "value": 30,
+      "unstable": false
+  },
+  "WintersEdge": {
+      "display_name": "Winter's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/b0cc91f9832b9c11bed6909c1d6c1241/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Traveller": {
+      "display_name": "Traveller",
+      "thumbnail": "https://i.ibb.co/mzGBmPQ/1133253877.png",
+      "value": 5,
+      "unstable": false
+  },
+  "Bleached": {
+      "display_name": "Bleached",
+      "thumbnail": "https://tr.rbxcdn.com/aebbf6b3f1d5dafaf4d9949f45050861/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Carved_K_2020": {
+      "display_name": "Carved",
+      "thumbnail": "https://tr.rbxcdn.com/e797e103df4f65ebdf1370083e73b120/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Aurora_K_2021": {
+      "display_name": "Aurora",
+      "thumbnail": "https://tr.rbxcdn.com/92170e3846eda836badc83cbf6d9e17e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Mummy_K_2020": {
+      "display_name": "Mummy",
+      "thumbnail": "https://tr.rbxcdn.com/842e0cd566b731115f49c228982af5f0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Tree_K_2021": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/994a7639938a28fcbad064a70f07adfe/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RedLuger": {
+      "display_name": "Red Luger",
+      "thumbnail": "https://tr.rbxcdn.com/8199817bce2d1c1df82113017d5dbc5c/420/420/Model/Png",
+      "value": 55,
+      "unstable": false
+  },
+  "Nova": {
+      "display_name": "Nova",
+      "thumbnail": "https://tr.rbxcdn.com/ff72f95846bef67af99ce02d54fc18f9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "TheSeer": {
+      "display_name": "Seer",
+      "thumbnail": "https://tr.rbxcdn.com/cc6b476e73e28bac464e86292e17b4d5/420/420/Image/Png",
+      "value": 6,
+      "unstable": false
+  },
+  "Stockings_K_2020": {
+      "display_name": "Stockings",
+      "thumbnail": "https://tr.rbxcdn.com/00866f8e485fb6046376e33b71e80410/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Zombie": {
+      "display_name": "Zombie",
+      "thumbnail": "https://tr.rbxcdn.com/26140f4db18e080ea73121dac4e2da4e/420/420/Model/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Candleflame": {
+      "display_name": "Candleflame",
+      "thumbnail": "https://tr.rbxcdn.com/b88b02f18199e1aa355864f3b83deb9b/420/420/Model/Png",
+      "value": 625,
+      "unstable": false
+  },
+  "GraveK": {
+      "display_name": "Grave",
+      "thumbnail": "https://tr.rbxcdn.com/e5527cade1bf9709bc896c1ca139e7be/420/420/Model/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "Jack": {
+      "display_name": "Jack",
+      "thumbnail": "https://tr.rbxcdn.com/fff555c8d27e06c8002f8463ec1e5665/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "CaneGun": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/4a49648700098a7d820ada688ad75dbb/420/420/Model/Png",
+      "value": 17,
+      "unstable": false
+  },
+  "Eye": {
+      "display_name": "Eyeball",
+      "thumbnail": "https://i.ibb.co/q1cfBmh/Eyeball-improved.png",
+      "value": 70,
+      "unstable": false
+  },
+  "Snowman_G_2022": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/c7deaf994d42a62190228e7c82ca0b19/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Heat": {
+      "display_name": "Heat",
+      "thumbnail": "https://tr.rbxcdn.com/a1d44416715657caf3aee5e5914d3182/420/420/Image/Png",
+      "value": 32,
+      "unstable": false
+  },
+  "SwirlyAxeSilver": {
+      "display_name": "Silver Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/e290f5ded09c0d8afff21f13d3def177/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Donut": {
+      "display_name": "Donut",
+      "thumbnail": "https://tr.rbxcdn.com/69c86d60f9cc034b1754893083e868c2/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "JD": {
+      "display_name": "JD",
+      "thumbnail": "https://tr.rbxcdn.com/e4b36b63b60dfd4e32b5f34a0bb14474/420/420/Model/Png",
+      "value": 185,
+      "unstable": false
+  },
+  "Slate": {
+      "display_name": "Slate",
+      "thumbnail": "https://tr.rbxcdn.com/fc6646e30e18cdce8bf197f908a8c86b/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Korblox": {
+      "display_name": "Korblox",
+      "thumbnail": "https://tr.rbxcdn.com/6b6220b9036769589119b96a901c7bba/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hunter_K_2022": {
+      "display_name": "Hunter",
+      "thumbnail": "https://tr.rbxcdn.com/3974a86529e039b04fa6a21c12ad77fc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bit": {
+      "display_name": "Bit",
+      "thumbnail": "https://tr.rbxcdn.com/340a50edab49b38e291b8a54775d53c5/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hearts": {
+      "display_name": "Hearts",
+      "thumbnail": "https://i.ibb.co/1mrvNVV/Heartsknife.png",
+      "value": 22,
+      "unstable": false
+  },
+  "PurpleSeer": {
+      "display_name": "Purple Seer",
+      "thumbnail": "https://tr.rbxcdn.com/082b1cfd23624e7b18184f63554c22ca/420/420/Image/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "CottonCandy": {
+      "display_name": "Cotton Candy",
+      "thumbnail": "https://tr.rbxcdn.com/69af32bbe2e6767e85c43b04ce1b7566/420/420/Model/Png",
+      "value": 180,
+      "unstable": false
+  },
+  "BlueP": {
+      "display_name": "Blue Pumpkin",
+      "thumbnail": "https://i.ibb.co/6gXhbBt/Blue-Pumpkin2018-Updated.png",
+      "value": 60,
+      "unstable": false
+  },
+  "GoldHarvester": {
+      "display_name": "Gold Harvester",
+      "thumbnail": "https://tr.rbxcdn.com/aa798aba8ac54032ae007b1501ad3b9a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Stickers_G_2021": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/4b5cb2537c8284921216c3fd67dd1fa5/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "FoxChroma": {
+      "display_name": "Fire Fox",
+      "thumbnail": "https://i.ibb.co/zVBC8QP/Chromafirefox-improved.png",
+      "value": 25,
+      "unstable": false
+  },
+  "RedFire": {
+      "display_name": "Red Fire",
+      "thumbnail": "https://tr.rbxcdn.com/30049c9db1644c91894aba335c2627d8/420/420/Model/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Skulls": {
+      "display_name": "Skulls",
+      "thumbnail": "https://tr.rbxcdn.com/40c9e351822b2bfb45f19b39d5339403/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Space": {
+      "display_name": "Space",
+      "thumbnail": "https://tr.rbxcdn.com/99a013183e13559f4ec186affa997d96/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sugar": {
+      "display_name": "Sugar",
+      "thumbnail": "https://tr.rbxcdn.com/7b848fcefa53b576ea43b56d72236a8b/420/420/Image/Png",
+      "value": 220,
+      "unstable": false
+  },
+  "Stockings_K_2022": {
+      "display_name": "Stockings",
+      "thumbnail": "https://tr.rbxcdn.com/f0c71fb6753d4266aaba5fed8d491dae/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "PumpkinPatch": {
+      "display_name": "Pumpkin Patch",
+      "thumbnail": "https://tr.rbxcdn.com/314288aadeca1fc6165cd71becfce289/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sidewinder": {
+      "display_name": "Sidewinder",
+      "thumbnail": "https://tr.rbxcdn.com/a44ac5231c9dab79bac2d206fd06c903/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "BearChroma": {
+      "display_name": "Fire Bear",
+      "thumbnail": "https://i.ibb.co/GsjPmpy/Chromafirebear-improved.png",
+      "value": 15,
+      "unstable": false
+  },
+  "TNL": {
+      "display_name": "TNL",
+      "thumbnail": "https://tr.rbxcdn.com/f9809ccbcfbaee930f5d918aa0ce6a5f/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "SwirlyGunChroma": {
+      "display_name": "Swirly Gun",
+      "thumbnail": "https://tr.rbxcdn.com/014d6561aa50a99431c6d8fa1bb41e0b/420/420/Image/Png",
+      "value": 2900,
+      "unstable": false
+  },
+  "Gingermint_G": {
+      "display_name": "Gingermint",
+      "thumbnail": "https://tr.rbxcdn.com/4401c40beaedfad3fe9159d460f87f39/420/420/Model/Png",
+      "value": 1250,
+      "unstable": false
+  },
+  "Ghostblade": {
+      "display_name": "Ghostblade",
+      "thumbnail": "https://tr.rbxcdn.com/dae3d9eb1752681cfb632bdcc6fa4f39/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "SilverHarvester": {
+      "display_name": "Silver Harvester",
+      "thumbnail": "https://tr.rbxcdn.com/6f819648c7bf39c6dfc98f0c263f476e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ZombieBat": {
+      "display_name": "Bat",
+      "thumbnail": "https://tr.rbxcdn.com/ae5f9155d0f98d29ff67aaeca52c1d3a/420/420/Model/Png",
+      "value": 2600,
+      "unstable": false
+  },
+  "molten": {
+      "display_name": "TestItem",
+      "thumbnail": "https://tr.rbxcdn.com/911b9df72850b6f40f353a17e214aa9b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Molten": {
+      "display_name": "Molten",
+      "thumbnail": "https://tr.rbxcdn.com/67f40e59173e0f4ad062c9e0d2e00e7e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Shark": {
+      "display_name": "Shark",
+      "thumbnail": "https://tr.rbxcdn.com/d5ccac7576fc6a9cec51e7cc1166c7a0/420/420/Image/Png",
+      "value": 42,
+      "unstable": false
+  },
+  "PigFire": {
+      "display_name": "Fire Pig",
+      "thumbnail": "https://i.ibb.co/NswXTNh/Firepig-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Stickers_K_2021": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/19bb0e8eabcc4d04dad3298e75a0c063/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Bleed": {
+      "display_name": "Rupture",
+      "thumbnail": "https://tr.rbxcdn.com/1b5e30f425bdb3e3a99d7256641ac626/420/420/Model/Png",
+      "value": 17,
+      "unstable": false
+  },
+  "Badger": {
+      "display_name": "Badger",
+      "thumbnail": "https://i.ibb.co/3B04w1b/Ftyh.png",
+      "value": 5,
+      "unstable": false
+  },
+  "Jigsaw": {
+      "display_name": "Jigsaw",
+      "thumbnail": "https://tr.rbxcdn.com/89af5ca73c52d585e6ce25e8c55396e2/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "IceHammer_Legendary": {
+      "display_name": "Icecrusher",
+      "thumbnail": "https://tr.rbxcdn.com/6e2e524698c3159e0f40cf97a6248fb8/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SilverVampiresEdge": {
+      "display_name": "Silver Vamp's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/6c5178310d912b17553bd0263a9aa18a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Prism": {
+      "display_name": "Prism",
+      "thumbnail": "https://tr.rbxcdn.com/ec08eef464c02c03463c0a2c7667c3d4/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Predator": {
+      "display_name": "Predator",
+      "thumbnail": "https://tr.rbxcdn.com/8b020d295073081e0ea4467c0de13d5c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SilverIceblaster": {
+      "display_name": "Iceblaster",
+      "thumbnail": "https://tr.rbxcdn.com/fe414e520c63cb1aec98b744e85bd2b4/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Virtual": {
+      "display_name": "Virtual",
+      "thumbnail": "https://tr.rbxcdn.com/35bb2799176cdf057dfb10b70168b318/420/420/Model/Png",
+      "value": 50,
+      "unstable": false
+  },
+  "MintyBlue": {
+      "display_name": "Blue Minty",
+      "thumbnail": "https://tr.rbxcdn.com/ddc9941015a370cf42888c7a7827ce5f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Vampire_K_2022": {
+      "display_name": "Vampire",
+      "thumbnail": "https://tr.rbxcdn.com/7befd890893e3040b3dc61b839b0a815/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Mechbug": {
+      "display_name": "Mechbug",
+      "thumbnail": "https://i.ibb.co/vqhW33m/Mechbug-Updated.png",
+      "value": 25,
+      "unstable": false
+  },
+  "SnakebiteG": {
+      "display_name": "Snakebite",
+      "thumbnail": "https://tr.rbxcdn.com/d4405fe98cfd2e9252ecb0a380b0eea6/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "IceCamo_G_2021": {
+      "display_name": "Ice Camo",
+      "thumbnail": "https://tr.rbxcdn.com/0fe4496c65301d1c964c954941e48f53/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LogchopperBlue": {
+      "display_name": "Blue Logchopper",
+      "thumbnail": "https://tr.rbxcdn.com/420c8688309e5264a6cec65ea9695b64/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Reaver_Godly": {
+      "display_name": "Reaver",
+      "thumbnail": "https://tr.rbxcdn.com/c1b74c4e469077d14e86881bb5818de1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LaserChroma": {
+      "display_name": "Laser",
+      "thumbnail": "https://tr.rbxcdn.com/b64f8b3d58f522656da07f4b7eadaf2b/420/420/Image/Png",
+      "value": 225,
+      "unstable": false
+  },
+  "Gingerbread_G_2022": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/8ba9fb8e01c19f4593d9813357934fa7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ornament1Gun": {
+      "display_name": "Ornament1",
+      "thumbnail": "https://tr.rbxcdn.com/0df556381daf1a4dde96da83a0555e26/420/420/Model/Png",
+      "value": 12	,
+      "unstable": false
+  },
+  "Tides": {
+      "display_name": "Tides",
+      "thumbnail": "https://tr.rbxcdn.com/6ae746c072bda1fb3fe4d921ab584268/420/420/Image/Png",
+      "value": 30,
+      "unstable": false
+  },
+  "Luger": {
+      "display_name": "Luger",
+      "thumbnail": "https://tr.rbxcdn.com/5062854fa71ff93007c56a1f2948de0d/420/420/Image/Png",
+      "value": 70,
+      "unstable": false
+  },
+  "Lights_K_2019": {
+      "display_name": "Lights",
+      "thumbnail": "https://tr.rbxcdn.com/1b271e93172b916e27232171a21dfedf/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "Spectral_G_2021": {
+      "display_name": "Spectral",
+      "thumbnail": "https://tr.rbxcdn.com/fd5058f02e5a0333b3c01e816a30802b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GoldIceblaster": {
+      "display_name": "Iceblaster",
+      "thumbnail": "https://tr.rbxcdn.com/ed5c6861f2b7162115c345a47dd2abcf/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Marley": {
+      "display_name": "Green",
+      "thumbnail": "https://tr.rbxcdn.com/9a39c0aa18c134f8ff88346010b14560/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "PotionK2018": {
+      "display_name": "Potion",
+      "thumbnail": "https://tr.rbxcdn.com/2683ef7e81314701f08a482154d28549/420/420/Model/Png",
+      "value": 55,
+      "unstable": false
+  },
+  "IceHammer_Ancient": {
+      "display_name": "Icecrusher",
+      "thumbnail": "https://tr.rbxcdn.com/db06db9c11fa2e48becf2fa7c98bb1f6/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ZombifiedG": {
+      "display_name": "Zombified",
+      "thumbnail": "https://tr.rbxcdn.com/170e735bc361764139a1f14215d9c6cc/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "2015": {
+      "display_name": "2015",
+      "thumbnail": "https://tr.rbxcdn.com/30c21c364402dddcc2bff6de3907c0e2/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Love": {
+      "display_name": "Love",
+      "thumbnail": "https://tr.rbxcdn.com/7d20455b2d5b988812877aeb6cf91067/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GhostKnife": {
+      "display_name": "Ghost",
+      "thumbnail": "https://tr.rbxcdn.com/117a2ea367d405af997abd533f516bcc/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Snowflake_K_2018": {
+      "display_name": "Snowflake",
+      "thumbnail": "https://tr.rbxcdn.com/1096ba3553485f904d7ed86b6f1b46a6/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Snowman2020": {
+      "display_name": "Mr. Snowman",
+      "thumbnail": "https://i.ibb.co/L0kv4tL/Mrsnowman-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ginger": {
+      "display_name": "Ginger",
+      "thumbnail": "https://tr.rbxcdn.com/975c659e86b649304f4fcbd3448cab55/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Iceblaster": {
+      "display_name": "Iceblaster",
+      "thumbnail": "https://tr.rbxcdn.com/134cede33ee1f490d47492a3919fd92d/420/420/Model/Png",
+      "value": 70,
+      "unstable": false
+  },
+  "ElderwoodKnifeGold": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/ec3f247e86b64ad388e3e2f4f50151da/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BunnyFire": {
+      "display_name": "Fire Bunny",
+      "thumbnail": "https://i.ibb.co/D5P5nzQ/Fire-Bunny-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Reindeer2020": {
+      "display_name": "Mr. Reindeer",
+      "thumbnail": "https://i.ibb.co/zS7PBt9/Mrreindeer-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "SwirlyGunSilver": {
+      "display_name": "Silver Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/416d370c805774b8c5a589b78679d713/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eternal4": {
+      "display_name": "Eternal IV",
+      "thumbnail": "https://tr.rbxcdn.com/6c0dc3950e81fc4c90ea12574e8a23b3/420/420/Model/Png",
+      "value": 13,
+      "unstable": false
+  },
+  "Eternal": {
+      "display_name": "Eternal",
+      "thumbnail": "https://tr.rbxcdn.com/f47c2d6bf230d0245ace7e5f0b1d2424/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Wanwood": {
+      "display_name": "Wanwood",
+      "thumbnail": "https://tr.rbxcdn.com/e932c23ef5a3bb35419abec4115771a9/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Fallout": {
+      "display_name": "Fallout",
+      "thumbnail": "https://tr.rbxcdn.com/1fb17345c5434680b2c961b76d20ea0a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Starry_K_2021": {
+      "display_name": "Starry",
+      "thumbnail": "https://tr.rbxcdn.com/3c181f3f536f7566c302e7716453671d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "OrangeSeer": {
+      "display_name": "Orange Seer",
+      "thumbnail": "https://tr.rbxcdn.com/7d3bd92a62e34ffaa081519d098da231/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Jetstream": {
+      "display_name": "Jetstream",
+      "thumbnail": "https://i.ibb.co/dbNLCHR/Jetstream-improved.png",
+      "value": 80,
+      "unstable": false
+  },
+  "RandomUncommonWeapon": {
+      "display_name": "Random Uncommon Weapon",
+      "thumbnail": "https://tr.rbxcdn.com/b52a382676400a3ba2896aab90f2939e/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Goo": {
+      "display_name": "Goo",
+      "thumbnail": "https://tr.rbxcdn.com/5b2593423569e3fba0bb4bff75e5133c/420/420/Model/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "ElderwoodScythe": {
+      "display_name": "Elderwood Scythe",
+      "thumbnail": "https://tr.rbxcdn.com/673b6104cc4c4c13250ea0b57e5f60a8/420/420/Model/Png",
+      "value": 115,
+      "unstable": false
+  },
+  "Magma_K_2021": {
+      "display_name": "Magma",
+      "thumbnail": "https://tr.rbxcdn.com/248ac4ebb2268fd0261a30caa7883b0f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Webs_G_2022": {
+      "display_name": "Webs",
+      "thumbnail": "https://tr.rbxcdn.com/74546330cfa3f683caf57aecd17dad10/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GoldSugar": {
+      "display_name": "Gold Sugar",
+      "thumbnail": "https://tr.rbxcdn.com/bca511ea1f4914af7c599626188dd692/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Boneblade": {
+      "display_name": "Boneblade",
+      "thumbnail": "https://tr.rbxcdn.com/a5e3df365a0dc7eb826d15ffdfb10605/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "ZombieG2018": {
+      "display_name": "Zombie",
+      "thumbnail": "https://tr.rbxcdn.com/bea8e19092bac48bb1aed1008646e83e/420/420/Model/Png",
+      "value": 50,
+      "unstable": false
+  },
+  "Hacker": {
+      "display_name": "Hacker",
+      "thumbnail": "https://tr.rbxcdn.com/c53704c9da4e5800dffdf7108a5d5821/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Scythe": {
+      "display_name": "Batwing",
+      "thumbnail": "https://tr.rbxcdn.com/cb8b5c423099c5f4097d4fb4836065a5/420/420/Model/Png",
+      "value": 45,
+      "unstable": false
+  },
+  "GreenMarble": {
+      "display_name": "Green Marble",
+      "thumbnail": "https://tr.rbxcdn.com/b82b43526ee22c025f8c4c4d1a0354e7/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "BronzeSugar": {
+      "display_name": "Bronze Sugar",
+      "thumbnail": "https://tr.rbxcdn.com/7435c54844d2e047fa528a52ebd984ff/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SantaGun": {
+      "display_name": "Santa",
+      "thumbnail": "https://tr.rbxcdn.com/a09cf388e21618280d6611a313d6e868/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Doge": {
+      "display_name": "Doge",
+      "thumbnail": "https://i.ibb.co/9NWfd9Y/Doge-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "iRevolver": {
+      "display_name": "iRevolver",
+      "thumbnail": "https://tr.rbxcdn.com/4072b6b79af327d3071f6a02308e8018/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Flames": {
+      "display_name": "Flames",
+      "thumbnail": "https://tr.rbxcdn.com/b5cb79ecfebd18ca229539ee37ad9359/420/420/Model/Png",
+      "value": 22,
+      "unstable": false
+  },
+  "SlouseClown": {
+      "display_name": "Clown",
+      "thumbnail": "https://tr.rbxcdn.com/384558d6b6141dd293d51482f8b96a7c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hive": {
+      "display_name": "Hive",
+      "thumbnail": "https://tr.rbxcdn.com/4ad79c6ae542da012636341a23727f3c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Aliens_G_2021": {
+      "display_name": "Aliens",
+      "thumbnail": "https://tr.rbxcdn.com/acf693a7a3d728af95eadd3213841dda/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BluePumpkin2020": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/1btZ2xJ/Bluepumpkin2020-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gifts_G_2019": {
+      "display_name": "Gifts",
+      "thumbnail": "https://tr.rbxcdn.com/bed2a8443c9d01367553d6feddfbba9c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cookieblade": {
+      "display_name": "Cookieblade",
+      "thumbnail": "https://tr.rbxcdn.com/bb5c0d177d1b811bcf02dd3d8fba899b/420/420/Model/Png",
+      "value": 4,
+      "unstable": false
+  },
+  "Reptile": {
+      "display_name": "Reptile",
+      "thumbnail": "https://tr.rbxcdn.com/338b4ddbe95ccde8c25dd7ba0f16f893/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Zombified_K_2022": {
+      "display_name": "Zombified",
+      "thumbnail": "https://tr.rbxcdn.com/e5248bcb10b5941c5cc711d7ef9664e4/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflake": {
+      "display_name": "Snowflake",
+      "thumbnail": "https://tr.rbxcdn.com/d47a1a34f81839abcd65b44c424ffc97/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Phantom": {
+      "display_name": "Phantom",
+      "thumbnail": "https://tr.rbxcdn.com/4272c91a7f14da3602f19aa0c3d52894/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Jinglegun": {
+      "display_name": "Jinglegun",
+      "thumbnail": "https://tr.rbxcdn.com/7c91d9ed9ebe4c95277d7d3f084b7376/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Snowman_K_2021": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/8e9fa640e50651c83ac8641a8688ee78/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Starry_G_2021": {
+      "display_name": "Starry",
+      "thumbnail": "https://tr.rbxcdn.com/209eb644f5cbb147adb21aa65e7bfaf3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Santa_K_2018": {
+      "display_name": "Santa",
+      "thumbnail": "https://tr.rbxcdn.com/af8aeb7662a4151197efef3f36ccefe0/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Fox": {
+      "display_name": "Fox",
+      "thumbnail": "https://i.ibb.co/3Yw4J3w/Fox-transparent.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Heartblade": {
+      "display_name": "Heartblade",
+      "thumbnail": "https://tr.rbxcdn.com/d49b5a52458027c6d2434afdfc5f1dd6/420/420/Image/Png",
+      "value": 45,
+      "unstable": false
+  },
+  "Pumpkin2020": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/ZKh99VB/Pumpkin2020-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "HallowsBlade": {
+      "display_name": "Hallow's Blade",
+      "thumbnail": "https://tr.rbxcdn.com/a2a9aad3b9f60538c3edc7544b109946/420/420/Model/Png",
+      "value": 22,
+      "unstable": false
+  },
+  "Holly_K_2018": {
+      "display_name": "Holly",
+      "thumbnail": "https://tr.rbxcdn.com/c9485cc8b97fa878ee615ec3178173df/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cookie_K_2021": {
+      "display_name": "Cookie",
+      "thumbnail": "https://tr.rbxcdn.com/629324f212987ae6e254a7fd56872c27/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CandyCorn_K_2022": {
+      "display_name": "Candy Corn",
+      "thumbnail": "https://tr.rbxcdn.com/c0c32629529162a0376dc3643626d083/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BunnyChroma": {
+      "display_name": "Fire Bunny",
+      "thumbnail": "https://i.ibb.co/YQ9sd9S/Chromafirebunny-improved.png",
+      "value": 28,
+      "unstable": false
+  },
+  "Icedriller_G_2020": {
+      "display_name": "Icedriller",
+      "thumbnail": "https://tr.rbxcdn.com/52446838ba45b9e368712e8129877915/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "SwirlyGunGold": {
+      "display_name": "Gold Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/806fa55f938bc167307c9baaa82f00ae/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gothic_G_2021": {
+      "display_name": "Gothic",
+      "thumbnail": "https://tr.rbxcdn.com/d411d29dfa57727feb62c55447fca8e8/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle": {
+      "display_name": "Sparkle",
+      "thumbnail": "https://tr.rbxcdn.com/fc5935e3ee3cf82168c4e00bbe03ae24/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Wrapped_K_2018": {
+      "display_name": "Wrapped",
+      "thumbnail": "https://tr.rbxcdn.com/ec08f46d0db00e0614e4b5f1216654e0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Dungeon": {
+      "display_name": "Dungeon",
+      "thumbnail": "https://tr.rbxcdn.com/c6b57ddd2dacb10878d8b053debd0527/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Coal_K_2022": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/04b0a137ea9d3a13dc222519995f80c3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "VampiresEdge": {
+      "display_name": "Vampire's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/d1b6b81cd47b79cc7feed4307f848058/420/420/Model/Png",
+      "value": 18,
+      "unstable": false
+  },
+  "Gingerblade": {
+      "display_name": "Gingerblade",
+      "thumbnail": "https://tr.rbxcdn.com/cfcacf8f56d91858e06e362b5a137ea5/420/420/Model/Png",
+      "value": 30,
+      "unstable": false
+  },
+  "Gifted": {
+      "display_name": "Gifted",
+      "thumbnail": "https://tr.rbxcdn.com/ee19a5f8240aec5cb6a8128dcc5d47bf/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Cracks_G_2021": {
+      "display_name": "Cracks",
+      "thumbnail": "https://tr.rbxcdn.com/8679c8c5dc68e2273dae72c4b27e16b8/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "MLG": {
+      "display_name": "Shiny",
+      "thumbnail": "https://tr.rbxcdn.com/0f36630f7d8a5fffc49a0e9a34dc5690/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Iceflake": {
+      "display_name": "Iceflake",
+      "thumbnail": "https://tr.rbxcdn.com/1e3be8d1ae6b6de9459d2254e374635f/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "LoveGun": {
+      "display_name": "Love",
+      "thumbnail": "https://tr.rbxcdn.com/348e10f5fccf35ec21f7ba69e117c7aa/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frosty": {
+      "display_name": "Frosty",
+      "thumbnail": "https://tr.rbxcdn.com/041c2cbd0cacb96cf950b1b2bc9cbf71/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Valentine": {
+      "display_name": "Valentine",
+      "thumbnail": "https://i.ibb.co/R7hmp1J/Valentine.png",
+      "value": 15,
+      "unstable": false
+  },
+  "AduriteGun": {
+      "display_name": "Adurite",
+      "thumbnail": "https://tr.rbxcdn.com/2bd1433c87c064e37fdf963d2696a3f9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle2": {
+      "display_name": "Sparkle2",
+      "thumbnail": "https://tr.rbxcdn.com/e87a1e469c8742cdc4c15edbc6d27dd0/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Ghosts_K_2021": {
+      "display_name": "Wraiths",
+      "thumbnail": "https://tr.rbxcdn.com/8c42d2b1519787a879c970f3c7070c93/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Skool": {
+      "display_name": "Skool",
+      "thumbnail": "https://tr.rbxcdn.com/34c4c186b4b2a50ad151fe29345e7063/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Ginger_K_2018": {
+      "display_name": "Ginger",
+      "thumbnail": "https://tr.rbxcdn.com/431a0682ab71deca8db79c73477fe608/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "IceDragon": {
+      "display_name": "Ice Dragon",
+      "thumbnail": "https://tr.rbxcdn.com/a3bb6106b071ee689ef21fa4dbd6c2bf/420/420/Model/Png",
+      "value": 22,
+      "unstable": false
+  },
+  "GreenPumpkin2021": {
+      "display_name": "Green Pumpkin",
+      "thumbnail": "https://i.ibb.co/PzWbmRf/Green-Pumpkin2021.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cane_K_2021": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/83b8da6bb22c3d5e65dfcd8740520cc6/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ToxicK": {
+      "display_name": "Toxic",
+      "thumbnail": "https://tr.rbxcdn.com/1807f143abfd3835d9f3aa1e99fac5e0/420/420/Model/Png",
+      "value": 160,
+      "unstable": false
+  },
+  "Tankie": {
+      "display_name": "Tankie",
+      "thumbnail": "https://i.ibb.co/CWwpF2Y/Tankie2.png",
+      "value": 30,
+      "unstable": false
+  },
+  "VampireG2018": {
+      "display_name": "Vampire",
+      "thumbnail": "https://tr.rbxcdn.com/9ca6d3586f9a0fb800dd249602ee7779/420/420/Model/Png",
+      "value": 140,
+      "unstable": false
+  },
+  "OrangeMarble": {
+      "display_name": "Orange Marble",
+      "thumbnail": "https://tr.rbxcdn.com/60ecaa238324c4dd7d4d0f48ec182f63/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Clown_G": {
+      "display_name": "Clown",
+      "thumbnail": "https://tr.rbxcdn.com/8a08823b7901bd339ef3fe808fcf3651/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "CandleflameChroma": {
+      "display_name": "Candleflame",
+      "thumbnail": "https://tr.rbxcdn.com/ea7d3b27620baf62809a04f1d47acb3d/420/420/Image/Png",
+      "value": 2700,
+      "unstable": false
+  },
+  "Vortex": {
+      "display_name": "Vortex",
+      "thumbnail": "https://tr.rbxcdn.com/bf46f79f4f7174fc6894bbcb6674febd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Elitey": {
+      "display_name": "Elitey",
+      "thumbnail": "https://i.ibb.co/zZ19csw/Elitey-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Reaver_Ancient": {
+      "display_name": "Reaver",
+      "thumbnail": "https://tr.rbxcdn.com/0bb229155678cda3595ab7ce19eb35c2/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cardboard": {
+      "display_name": "Cardboard",
+      "thumbnail": "https://tr.rbxcdn.com/45590fd3cf1d79bbe2e516def5e7db2f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Krypto": {
+      "display_name": "Krypto",
+      "thumbnail": "https://i.ibb.co/bPpgpsb/Krypto-Knife.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sweater": {
+      "display_name": "Sweater",
+      "thumbnail": "https://tr.rbxcdn.com/9381a824fbb42d925def1b5a3201364b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eyeball_K_2022": {
+      "display_name": "Eyeball",
+      "thumbnail": "https://tr.rbxcdn.com/9bc2cccba915bdf175d257f1a96457be/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ZombieDog": {
+      "display_name": "Zombie Dog",
+      "thumbnail": "https://i.ibb.co/6gp437z/Zombie-Dog-improved.png",
+      "value": 45,
+      "unstable": false
+  },
+  "Spitfire": {
+      "display_name": "Spitfire",
+      "thumbnail": "https://tr.rbxcdn.com/1b735acf48306af64532467b67e60e71/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle9": {
+      "display_name": "Sparkle9",
+      "thumbnail": "https://tr.rbxcdn.com/43371ae4b5f2a57fa5b63640dc07a56b/420/420/Model/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Bats_K_2020": {
+      "display_name": "Bats",
+      "thumbnail": "https://tr.rbxcdn.com/18920f127c5dd6332f5922c8013753bf/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BloodKnife": {
+      "display_name": "Blood",
+      "thumbnail": "https://tr.rbxcdn.com/c6270fd3510f9e06e3d13904b8e3ca70/420/420/Image/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Gingerbread_G_2019": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/c6873d8f79c3c79d3eb0facf6071a728/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "DogChroma": {
+      "display_name": "Fire Dog",
+      "thumbnail": "https://i.ibb.co/TH6mJqF/Chromafiredog-improved.png",
+      "value": 20,
+      "unstable": false
+  },
+  "Blaster": {
+      "display_name": "Blaster",
+      "thumbnail": "https://tr.rbxcdn.com/2ee7b76997164ab3aafff2fcbcaabbdb/420/420/Model/Png",
+      "value": 55,
+      "unstable": false
+  },
+  "PumpkinPet19": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/44DWJ7Q/Pumpkin2019.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Dog": {
+      "display_name": "Dog",
+      "thumbnail": "https://i.ibb.co/Strr8N9/Dog-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Copper": {
+      "display_name": "Copper",
+      "thumbnail": "https://tr.rbxcdn.com/8cca639251f1bd6ef1c988be76f564ac/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GreenFire": {
+      "display_name": "Green Fire",
+      "thumbnail": "https://tr.rbxcdn.com/4661bd5e13ec27d904a3d99f054bee73/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Eggblade": {
+      "display_name": "Eggblade",
+      "thumbnail": "https://tr.rbxcdn.com/3c62942afb0e6c54995d5dcbab8096b1/420/420/Image/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "RedPumpkin2020": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://i.ibb.co/PtLrJmY/Redpumpkin2020-improved.png",
+      "value": 5,
+      "unstable": false
+  },
+  "Icey": {
+      "display_name": "Icey",
+      "thumbnail": "https://tr.rbxcdn.com/40418f2f6d1d9305b2fbaa72113f46f5/420/420/Image/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "BlueVampiresEdge": {
+      "display_name": "Blue Vamp's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/294231e7c0b970251cb3263e316e2e87/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cane_G_2018": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/80af6d1b44a8f28d430d6dde1f4d2036/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hardened": {
+      "display_name": "Hardened",
+      "thumbnail": "https://tr.rbxcdn.com/4ddea8d5e013284a7c2227cca78e62fc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Trees_K_2020": {
+      "display_name": "Trees",
+      "thumbnail": "https://tr.rbxcdn.com/e6cfcfaedf0d57937f1286af8156d9af/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Rudolph": {
+      "display_name": "Rudolph",
+      "thumbnail": "https://i.ibb.co/qjMLJKx/Rudolph-pet.png",
+      "value": 45,
+      "unstable": false
+  },
+  "Webs": {
+      "display_name": "Webs",
+      "thumbnail": "https://tr.rbxcdn.com/c5e1b882f27af3e6424cb6243f7071f9/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "DeepSea": {
+      "display_name": "Deep Sea",
+      "thumbnail": "https://tr.rbxcdn.com/a56b0a3255e67342ea03bd2503aa0929/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflake_G_2022": {
+      "display_name": "Snowflake",
+      "thumbnail": "https://tr.rbxcdn.com/450699a69484d2a5702b535968e6b840/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eco": {
+      "display_name": "Eco",
+      "thumbnail": "https://tr.rbxcdn.com/9788157e527e5de4b1a23373b5a33515/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BatChroma": {
+      "display_name": "Fire Bat",
+      "thumbnail": "https://i.ibb.co/hf6QnPc/Chromafirebat-improved.png",
+      "value": 22,
+      "unstable": false
+  },
+  "Sparkle4": {
+      "display_name": "Sparkle4",
+      "thumbnail": "https://tr.rbxcdn.com/0380113947bc6acbf91c86b401be5e5d/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Fade": {
+      "display_name": "Fade",
+      "thumbnail": "https://tr.rbxcdn.com/f6b2c287d8d4869eb5b5d8f5f0ce1273/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Potion": {
+      "display_name": "Potion",
+      "thumbnail": "https://tr.rbxcdn.com/72b52ffaef00e6e11ac688adb5e234ef/420/420/Model/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "BlueCamo_K_2022": {
+      "display_name": "Survivor Camo",
+      "thumbnail": "https://tr.rbxcdn.com/caebb3803e14fdf2fbd641d5138182a7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BlueSeer": {
+      "display_name": "Blue Seer",
+      "thumbnail": "https://tr.rbxcdn.com/e4c806b57650734a7cb17c09a689864b/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "GoldenGun": {
+      "display_name": "Golden",
+      "thumbnail": "https://tr.rbxcdn.com/a82aa92707b3a9177a29f014f44c143a/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "GoldVampiresEdge": {
+      "display_name": "Gold Vamp's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/519007965a403beff00d0e29b439dc54/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Spectre2022": {
+      "display_name": "Spectre",
+      "thumbnail": "https://tr.rbxcdn.com/cd4c8675f620c277ef997372bf50f49a/420/420/Model/Png",
+      "value": 350,
+      "unstable": false
+  },
+  "<3": {
+      "display_name": "<3",
+      "thumbnail": "https://i.ibb.co/xXM0nC0/Fdxg.png",
+      "value": 25,
+      "unstable": false
+  },
+  "CandyCorn_K_2020": {
+      "display_name": "Candy Corn",
+      "thumbnail": "https://tr.rbxcdn.com/cd1b7091e4f7997ede9c0d49b7cf474b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Laser": {
+      "display_name": "Laser",
+      "thumbnail": "https://tr.rbxcdn.com/b2bf58921f41c86c70f7e2803e1b99ca/420/420/Image/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Nightblade": {
+      "display_name": "Nightblade",
+      "thumbnail": "https://tr.rbxcdn.com/eecebb1f028c52802d0bfd5153e683f5/420/420/Model/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Fusion": {
+      "display_name": "Fusion",
+      "thumbnail": "https://tr.rbxcdn.com/f6d62f931e408366136c090d72ef357f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ornaments_G_2020": {
+      "display_name": "Ornaments",
+      "thumbnail": "https://tr.rbxcdn.com/716e6b3fcfa62e29664fb7be36f305c9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "FertilizerBox": {
+      "display_name": "Box of Fertilizer",
+      "thumbnail": "https://tr.rbxcdn.com/8a52d9ef5ea3992611ecc34f7d2dabfa/420/420/Image/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Stainless": {
+      "display_name": "Stainless",
+      "thumbnail": "https://tr.rbxcdn.com/7e760af6c625af6f354f4a081c4b904a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sandy": {
+      "display_name": "Sandy",
+      "thumbnail": "https://tr.rbxcdn.com/494bfec1bf7c99085bd8a7c6dc1acba9/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Kool": {
+      "display_name": "Yellow",
+      "thumbnail": "https://tr.rbxcdn.com/4152c4f69a9ae42467c68ce99acc218c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "WrapPaperBoxGold": {
+      "display_name": "Box of Gold Wrapping Paper ",
+      "thumbnail": "https://tr.rbxcdn.com/ff230fc19241d4e5123f9b053456ea1b/420/420/Image/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "Sketch": {
+      "display_name": "Sketch",
+      "thumbnail": "https://tr.rbxcdn.com/401ee8270efdabe73b6ad95cd779d597/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "HL2": {
+      "display_name": "HL2",
+      "thumbnail": "https://tr.rbxcdn.com/ea1cb918075e5bd8acdfea31f2e09bcb/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gingerbread_K_2022": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/738e1d90f2ae972dceb88dab6eb7b1aa/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "NikKnife": {
+      "display_name": "Nik's Scythe",
+      "thumbnail": "https://tr.rbxcdn.com/805c18fdc534c20a23cb7a97657a3be0/420/420/Model/Png",
+      "value": 9999999999999,
+      "unstable": false
+  },
+  "Icebreaker": {
+      "display_name": "Icebreaker",
+      "thumbnail": "https://tr.rbxcdn.com/c5a5131d60e0f1afa23594cf46f5f7f2/420/420/Model/Png",
+      "value": 125,
+      "unstable": false
+  },
+  "Gemstone": {
+      "display_name": "Gemstone",
+      "thumbnail": "https://tr.rbxcdn.com/7a8713bc77fe794dc7841d617c971887/420/420/Image/Png",
+      "value": 28,
+      "unstable": false
+  },
+  "Candy": {
+      "display_name": "Candy",
+      "thumbnail": "https://tr.rbxcdn.com/5b44bca2098c3e7744b98d61506f6ce1/420/420/Model/Png",
+      "value": 225,
+      "unstable": false
+  },
+  "CandySwirl_G_2019": {
+      "display_name": "Candy Swirl",
+      "thumbnail": "https://tr.rbxcdn.com/382e0c09dd03d1d403fa188ec26deb31/420/420/Model/Png",
+      "value": 50,
+      "unstable": false
+  },
+  "Blossom": {
+      "display_name": "Blossom",
+      "thumbnail": "https://tr.rbxcdn.com/b114ec8a0a3bb607a9e9ab56700a6571/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Chilly": {
+      "display_name": "Chilly",
+      "thumbnail": "https://i.ibb.co/PGdS7N8/Fgvb.png7",
+      "value": 35,
+      "unstable": false
+  },
+  "WrapPaperBoxPurple": {
+      "display_name": "Box of Purple Wrapping Paper",
+      "thumbnail": "https://tr.rbxcdn.com/2289219c9c85b9b8d058cbf10c04aca0/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "ToxicG": {
+      "display_name": "Toxic",
+      "thumbnail": "https://tr.rbxcdn.com/8a74b6035f0f3ca3adf765bfbd1d4619/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "VampireK2018": {
+      "display_name": "Vampire",
+      "thumbnail": "https://tr.rbxcdn.com/8cc10841fca15ccf23d500432ed7c310/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Vampire_G_2022": {
+      "display_name": "Vampire",
+      "thumbnail": "https://tr.rbxcdn.com/7dd3011924ba160c1e19061d32452149/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Star": {
+      "display_name": "Star",
+      "thumbnail": "https://tr.rbxcdn.com/758a140ce061ace4d80faddc5bfcf455/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Logchopper": {
+      "display_name": "Logchopper",
+      "thumbnail": "https://tr.rbxcdn.com/7e884ad40a6e04419e9da924efe32c61/420/420/Model/Png",
+      "value": 40,
+      "unstable": false
+  },
+  "Sweater_K_2018": {
+      "display_name": "Sweater",
+      "thumbnail": "https://tr.rbxcdn.com/f26860c526bd2f5e9a37a58646be170a/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "MintySilver": {
+      "display_name": "Silver Minty",
+      "thumbnail": "https://tr.rbxcdn.com/aee3213beef372216f8b790e031b2a3f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LugerChroma": {
+      "display_name": "Luger",
+      "thumbnail": "https://tr.rbxcdn.com/1cad66ae9f94c2e589b3ee32e03dac40/420/420/Image/Png",
+      "value": 300,
+      "unstable": false
+  },
+  "Reindeer": {
+      "display_name": "Reindeer",
+      "thumbnail": "https://i.ibb.co/hH3hCwz/Dvffdv.png",
+      "value": 45,
+      "unstable": false
+  },
+  "MummyK2018": {
+      "display_name": "Mummy",
+      "thumbnail": "https://tr.rbxcdn.com/b5bfb3d25ec3534087045427552ee1fb/420/420/Model/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Cane_G_2021": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/b084e3ea102be81b764ea92511ca40df/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ribbons_K_2021": {
+      "display_name": "Ribbons",
+      "thumbnail": "https://tr.rbxcdn.com/4c32a1f937125ecdc48bad2267f652b7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "WrapPaperBoxGreen": {
+      "display_name": "Box of Green Wrapping Paper",
+      "thumbnail": "https://tr.rbxcdn.com/28ba87bc30d1c5a10139dbe3b065842e/420/420/Image/Png",
+      "value": 5,
+      "unstable": false
+  },
+  "Engraved": {
+      "display_name": "Engraved",
+      "thumbnail": "https://tr.rbxcdn.com/38b39ce17bb0b6d890605ccbcecbbda7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Grind": {
+      "display_name": "Grind",
+      "thumbnail": "https://tr.rbxcdn.com/bfc26458ce0b91abf9589cb5bc3e4495/420/420/Model/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "Arctic_G_2022": {
+      "display_name": "Arctic",
+      "thumbnail": "https://tr.rbxcdn.com/da76ccec767e6cc38915e22e8da7a47f/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "Wrapped": {
+      "display_name": "Wrapped",
+      "thumbnail": "https://tr.rbxcdn.com/27421af32c655d947d34368a232b7a4f/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Ornament1": {
+      "display_name": "Ornament",
+      "thumbnail": "https://tr.rbxcdn.com/35156ab0db27a447a905fce63a3177a0/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "SlimyK": {
+      "display_name": "Slimy",
+      "thumbnail": "https://tr.rbxcdn.com/749ce558c01fe59cf5b239b1799c371a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Candle_K_2020": {
+      "display_name": "Candle",
+      "thumbnail": "https://tr.rbxcdn.com/10f5ba3f44923690313a65eeb3ee5696/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Pine_G_2019": {
+      "display_name": "Pine",
+      "thumbnail": "https://tr.rbxcdn.com/621fa8549ce438ed391b37d7bce4c023/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Deathshard": {
+      "display_name": "Deathshard",
+      "thumbnail": "https://tr.rbxcdn.com/2cbe8dc1f6ad2eed263a16bf281f76ac/420/420/Image/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Wraith_G_2022": {
+      "display_name": "Wraith",
+      "thumbnail": "https://tr.rbxcdn.com/6e8d5d99529fd47890560f8ce05b9cad/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BluePumpkin19": {
+      "display_name": "Blue Pumpkin",
+      "thumbnail": "https://i.ibb.co/VLXPk0x/Ftr-h.png",
+      "value": 10,
+      "unstable": false
+  },
+  "Bats": {
+      "display_name": "Bats",
+      "thumbnail": "https://tr.rbxcdn.com/8c441b07308c01d4fb5c1557bb7db520/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "SwirlyAxe": {
+      "display_name": "Swirly Axe",
+      "thumbnail": "https://tr.rbxcdn.com/3355a1151fa8cca06717bf3451de186b/420/420/Model/Png",
+      "value": 1850,
+      "unstable": false
+  },
+  "Frosted_G_2019": {
+      "display_name": "Frosted",
+      "thumbnail": "https://tr.rbxcdn.com/52ffa8d30325cd86af25cce15c84cfc1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cavern_K_2019": {
+      "display_name": "Cavern",
+      "thumbnail": "https://i.ibb.co/yQnxhQb/Ggf.png",
+      "value": 50,
+      "unstable": false
+  },
+  "Gingerbread_K_2019": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/7adc1925f4340d2c9390a9b3f50d3a95/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "SlimeG": {
+      "display_name": "Slime",
+      "thumbnail": "https://tr.rbxcdn.com/e5cf1ade5c438d6d7b3d751a743e00f7/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Gingermint_KChroma": {
+      "display_name": "Cookiecane",
+      "thumbnail": "https://tr.rbxcdn.com/e7524ef48069664804e243ecb3f296a4/420/420/Decal/Png",
+      "value": 3600,
+      "unstable": false
+  },
+  "Key": {
+      "display_name": "Mystery Key",
+      "thumbnail": "https://tr.rbxcdn.com/a55249956d0de9b2e7766de689ff6526/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frozen_G_2019": {
+      "display_name": "Frozen",
+      "thumbnail": "https://tr.rbxcdn.com/97e0f8cc05b00b37de3767b628d95f87/420/420/Model/Png",
+      "value": 45,
+      "unstable": false
+  },
+  "Portal_K_2020": {
+      "display_name": "Portal",
+      "thumbnail": "https://tr.rbxcdn.com/76c05369d657eeaced997c5b397997cb/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "LogchopperSilver": {
+      "display_name": "Silver Logchopper",
+      "thumbnail": "https://tr.rbxcdn.com/0ceba7b5e73228abbefa3f2b93df2afb/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ScratchBlue": {
+      "display_name": "Scratch",
+      "thumbnail": "https://tr.rbxcdn.com/b96d7e2235bd6722cdd598c8f7d835a6/420/420/Model/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "Hallowscythe": {
+      "display_name": "Hallowscythe",
+      "thumbnail": "https://tr.rbxcdn.com/09626cdf326b3f547af293b4d4e90b78/420/420/Model/Png",
+      "value": 75,
+      "unstable": false
+  },
+  "Stalker": {
+      "display_name": "Stalker",
+      "thumbnail": "https://tr.rbxcdn.com/d412ea9f8f6982c54ed23113d873ccc0/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Static": {
+      "display_name": "Static",
+      "thumbnail": "https://tr.rbxcdn.com/952ada2e3f313296ee1e4cc7025e1c17/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eternal3": {
+      "display_name": "Eternal III",
+      "thumbnail": "https://tr.rbxcdn.com/d8fb00348b3de793f451845c09bf755e/420/420/Image/Png",
+      "value": 13,
+      "unstable": false
+  },
+  "Dew": {
+      "display_name": "Black",
+      "thumbnail": "https://tr.rbxcdn.com/fcdf6186c5061351fac625409006b758/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Alex": {
+      "display_name": "Alex",
+      "thumbnail": "https://tr.rbxcdn.com/642d35ce5add0efbaa00138c2cf2dbca/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "GreenCamo_K_2022": {
+      "display_name": "Zombie Camo",
+      "thumbnail": "https://tr.rbxcdn.com/1e632e22c3123820a37e6c70380e8102/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflakes_K_2019": {
+      "display_name": "Snowflakes",
+      "thumbnail": "https://tr.rbxcdn.com/4456bfc08f8d54eb2987952d1bea7ab0/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Iron": {
+      "display_name": "Iron",
+      "thumbnail": "https://tr.rbxcdn.com/c551ebcac9d415fa80c74e8862ab4e93/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Linked": {
+      "display_name": "Linked",
+      "thumbnail": "https://tr.rbxcdn.com/8ad54082f836f83f02090b125d74bb37/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Sparkle5": {
+      "display_name": "Sparkle5",
+      "thumbnail": "https://tr.rbxcdn.com/9914ba741ae52c3e35043329ead43a9b/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Elfy": {
+      "display_name": "Elf",
+      "thumbnail": "https://i.ibb.co/HLZC3b5/Elf2016.png",
+      "value": 18,
+      "unstable": false
+  },
+  "SwirlyGunBlue": {
+      "display_name": "Blue Swirly",
+      "thumbnail": "https://tr.rbxcdn.com/cf3256ebe7517dc03a2143b70693a7a7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ZombieK2018": {
+      "display_name": "Zombie",
+      "thumbnail": "https://tr.rbxcdn.com/d2abf327b27dd14b4268e8f74cc48d22/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Eternal2": {
+      "display_name": "Eternal II",
+      "thumbnail": "https://tr.rbxcdn.com/f04ca67338dafb23d1ce106bfe3b413c/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Watcher_K_2021": {
+      "display_name": "Watcher",
+      "thumbnail": "https://tr.rbxcdn.com/7d38bc43c4b1e72267cb21bda59f266e/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SilverIcebreaker": {
+      "display_name": "Icebreaker",
+      "thumbnail": "https://tr.rbxcdn.com/d4d93fc9d7c387a41e4315c650bb7e76/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Knife1": {
+      "display_name": "Splitter",
+      "thumbnail": "https://tr.rbxcdn.com/816977c116eb605617f146550631a8c3/420/420/Image/Png",
+      "value": 7,
+      "unstable": false
+  },
+  "Bones_K_2022": {
+      "display_name": "Boney",
+      "thumbnail": "https://tr.rbxcdn.com/5f01add57e16715fb4d3a6db8faa40e5/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ShadowPumpkin2021": {
+      "display_name": "Shadow Pumpkin",
+      "thumbnail": "https://i.ibb.co/w0VQv7d/Shadow-Pumpkin2021.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frostbird": {
+      "display_name": "Frostbird",
+      "thumbnail": "https://tr.rbxcdn.com/bd9a3a60942e3f8fb84d736aabe17e18/420/420/Image/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Shaded": {
+      "display_name": "Shaded",
+      "thumbnail": "https://tr.rbxcdn.com/ada6d553b128af09f7e1f1fc3ed18f45/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflakes_G_2019": {
+      "display_name": "Snowflakes",
+      "thumbnail": "https://i.ibb.co/Y2q0BLW/Snowflakes2019-Gun.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Branches": {
+      "display_name": "Branches",
+      "thumbnail": "https://tr.rbxcdn.com/6787746e5ce2c58b681483e94aca56fe/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "SilentNight_K_2020": {
+      "display_name": "Silent Night",
+      "thumbnail": "https://tr.rbxcdn.com/fa15a4a37a4503e10936e05155b62f5a/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "OverseerKnife": {
+      "display_name": "Overseer",
+      "thumbnail": "https://tr.rbxcdn.com/9230657aaba112b266df8dea91244325/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frozen_G_2022": {
+      "display_name": "Frozen",
+      "thumbnail": "https://tr.rbxcdn.com/27e42703dc87324b71f73f07328c732a/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cat_G_2021": {
+      "display_name": "Cat",
+      "thumbnail": "https://tr.rbxcdn.com/231010fb414da79c2e7a6857f0ce1fea/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Rune": {
+      "display_name": "Rune",
+      "thumbnail": "https://tr.rbxcdn.com/2fef99598b992f3513b5791c4cf4e687/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowman_G_2021": {
+      "display_name": "Snowman",
+      "thumbnail": "https://tr.rbxcdn.com/9a6ac9bb49655b3932285bb0ae576272/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Coal_G_2018": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/66c92af46962225259fa3746234f4e87/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BlueHarvester": {
+      "display_name": "Blue Harvester",
+      "thumbnail": "https://tr.rbxcdn.com/1ad8c7d9b3a7bb5854ec0d48cbec5e3b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ghostfire_G_2022": {
+      "display_name": "Ghostfire",
+      "thumbnail": "https://tr.rbxcdn.com/0cb99b9a877803e488106e26a6c05f1c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Snowflake_K_2022": {
+      "display_name": "Snowflake",
+      "thumbnail": "https://tr.rbxcdn.com/21b6252aafe2ed6165b6caa89754f9d3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "XmasStickers_G_2021": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/21b1c1edf6ed2ea0585afa61a01184f7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SnakebiteK": {
+      "display_name": "Snakebite",
+      "thumbnail": "https://tr.rbxcdn.com/e85a6094f153e56e47c27fd4ee71bf98/420/420/Model/Png",
+      "value": 60,
+      "unstable": false
+  },
+  "Snowy2017": {
+      "display_name": "Snowy",
+      "thumbnail": "https://tr.rbxcdn.com/0e9a54df1a1ec2a061ad8a43594f7e48/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "ElderwoodKnifeChroma": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/501d61f8f37c85e4272e11a8d341e7c0/420/420/Image/Png",
+      "value": 3500,
+      "unstable": false
+  },
+  "Ornaments_K_2020": {
+      "display_name": "Ornaments",
+      "thumbnail": "https://tr.rbxcdn.com/0c6e9917e8ae235cb0f7546bb7ba6841/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ElderwoodKnifeBronze": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/7f967af70c866059030c58c8a515b6c7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Frozen_K_2019": {
+      "display_name": "Frozen",
+      "thumbnail": "https://tr.rbxcdn.com/1957bc4caea9a365147a75c4eacd2249/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "RainbowGun": {
+      "display_name": "Rainbow",
+      "thumbnail": "https://tr.rbxcdn.com/5d7a120e3ac0274b333cd6534c6a2098/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Eyes_G_2020": {
+      "display_name": "Watcher",
+      "thumbnail": "https://tr.rbxcdn.com/3ae1eaa968a5e57c7b1cb39364d60ed7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GingerGun": {
+      "display_name": "Ginger",
+      "thumbnail": "https://tr.rbxcdn.com/4e5c218b356c7d79f8e3a5aa0e71d452/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "ChromaLightbringer": {
+      "display_name": "Lightbringer",
+      "thumbnail": "https://tr.rbxcdn.com/af39b810d253405884045e6e5266076d/420/420/Image/Png",
+      "value": 510,
+      "unstable": false
+  },
+  "Cane_K_2018": {
+      "display_name": "Cane",
+      "thumbnail": "https://tr.rbxcdn.com/466c1f7c91c97210423fd237480f8ae6/420/420/Model/Png",
+      "value": 65,
+      "unstable": false
+  },
+  "GhostRbx_K_2022": {
+      "display_name": "Ghostly",
+      "thumbnail": "https://tr.rbxcdn.com/243406c81ae69634bfa0b7e99f0016df/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ollie": {
+      "display_name": "Ollie",
+      "thumbnail": "https://tr.rbxcdn.com/f168b258ed5b774e2b6d32880ed56164/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "AmericaSword": {
+      "display_name": "Old Glory",
+      "thumbnail": "https://tr.rbxcdn.com/236e7c7947e62e003869e90db3de5fb9/420/420/Model/Png",
+      "value": 50,
+      "unstable": false
+  },
+  "Snowflake_G_2018": {
+      "display_name": "Snowflake",
+      "thumbnail": "https://tr.rbxcdn.com/53c8bc122aa102b7f91d8bffd578fff3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Disint": {
+      "display_name": "Laser",
+      "thumbnail": "https://tr.rbxcdn.com/504b19ef6ed853894057c193a7220a19/420/420/Image/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Pumpking": {
+      "display_name": "Pumpking",
+      "thumbnail": "https://tr.rbxcdn.com/8324df7b934b7c88bc7b254eeaec0c20/420/420/Model/Png",
+      "value": 30,
+      "unstable": false
+  },
+  "Tiger": {
+      "display_name": "Tiger",
+      "thumbnail": "https://tr.rbxcdn.com/4b2b7eafb89ce12a7cf83b75e80358dd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "IcePhoenix": {
+      "display_name": "Ice Phoenix",
+      "thumbnail": "https://tr.rbxcdn.com/99684992757b82e2fecc4c3d88c0ba10/420/420/Image/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Cola": {
+      "display_name": "Soda",
+      "thumbnail": "https://tr.rbxcdn.com/ed54190dfa2c40c5bea9f0313dadb000/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BatsG": {
+      "display_name": "Bats",
+      "thumbnail": "https://tr.rbxcdn.com/1f2f3392956e61f0bb4c3fa35db6f18b/420/420/Model/Png",
+      "value": 8,
+      "unstable": false
+  },
+  "ElderwoodGunBronze": {
+      "display_name": "Bronze Elderwood",
+      "thumbnail": "https://tr.rbxcdn.com/c544889754a58a646180cfb51084db88/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gingerbread2017": {
+      "display_name": "Gingerbread",
+      "thumbnail": "https://tr.rbxcdn.com/1ab9ae2abad1bcaf156b6adc42aaf412/420/420/Model/Png",
+      "value": 2,
+      "unstable": false
+  },
+  "Galactic": {
+      "display_name": "Galactic",
+      "thumbnail": "https://tr.rbxcdn.com/915e531dada2509782992862300a7cdc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Candied_K_2022": {
+      "display_name": "Candied",
+      "thumbnail": "https://tr.rbxcdn.com/323fefd83e29cef786d764b254561cce/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SketchYT": {
+      "display_name": "Sketchy",
+      "thumbnail": "https://tr.rbxcdn.com/cffef083e5a0b898d9fec98b9a091474/420/420/Model/Png",
+      "value": 1,
+      "unstable": false
+  },
+  "Tree_G_2022": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/5a4abc4a0bd2288e26a5ba296097febc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Infected_K_2022": {
+      "display_name": "Infected",
+      "thumbnail": "https://tr.rbxcdn.com/c2085369cd39e38327dda021eb02fd0f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Viper": {
+      "display_name": "Viper",
+      "thumbnail": "https://tr.rbxcdn.com/f4243c7c2ccc991156075342bf6db3b7/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Pixel": {
+      "display_name": "Pixel",
+      "thumbnail": "https://tr.rbxcdn.com/19181ef6f55b2f78c3b58be84f8ac172/420/420/Model/Png",
+      "value": 32,
+      "unstable": false
+  },
+  "RedPumpkin19": {
+      "display_name": "Red Pumpkin",
+      "thumbnail": "https://i.ibb.co/kJstXWz/2019redpumpkin.png",
+      "value": 50,
+      "unstable": false
+  },
+  "AmericaGun": {
+      "display_name": "America",
+      "thumbnail": "https://tr.rbxcdn.com/7c22d47ca4e622465904540269a65354/420/420/Image/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "RedIceblaster": {
+      "display_name": "Iceblaster",
+      "thumbnail": "https://tr.rbxcdn.com/dad63b883995ab135d580e14565ff202/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Nobledragon": {
+      "display_name": "Nobledragon",
+      "thumbnail": "https://i.ibb.co/64vf33Q/Nobledragon-Updated.png",
+      "value": 45,
+      "unstable": false
+  },
+  "SharkChroma": {
+      "display_name": "Shark",
+      "thumbnail": "https://tr.rbxcdn.com/332462cfb136f7ebc96a5491c21ea347/420/420/Image/Png",
+      "value": 150,
+      "unstable": false
+  },
+  "Tailslide": {
+      "display_name": "Tailslide",
+      "thumbnail": "https://tr.rbxcdn.com/2bf28392afe5948eb0665cf7c98f2106/420/420/Model/Png",
+      "value": 20,
+      "unstable": false
+  },
+  "Chips": {
+      "display_name": "Blue",
+      "thumbnail": "https://tr.rbxcdn.com/ebdbbac6da48a9ca18d2dbe6d656a693/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Caution": {
+      "display_name": "Caution",
+      "thumbnail": "https://tr.rbxcdn.com/f86b34028bd3cb7835e3f79767949278/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Apoc_K_2022": {
+      "display_name": "Apocalypse",
+      "thumbnail": "https://tr.rbxcdn.com/f2929ebb1168949087c18305cebad5f8/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "SlouseClownGun": {
+      "display_name": "Clown",
+      "thumbnail": "https://tr.rbxcdn.com/8a08823b7901bd339ef3fe808fcf3651/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "BatFire": {
+      "display_name": "Fire Bat",
+      "thumbnail": "https://i.ibb.co/xztcMN7/Firebat-improved.png",
+      "value": 5,
+      "unstable": false
+  },
+  "Lightbringer": {
+      "display_name": "Lightbringer",
+      "thumbnail": "https://tr.rbxcdn.com/42154919e1a53b22f3dbb62ad37cbb8c/420/420/Image/Png",
+      "value": 70,
+      "unstable": false
+  },
+  "CatFire": {
+      "display_name": "Fire Cat",
+      "thumbnail": "https://i.ibb.co/dpktVxw/Firecat-improved.png",
+      "value": 4,
+      "unstable": false
+  },
+  "MintyGold": {
+      "display_name": "Gold Minty",
+      "thumbnail": "https://tr.rbxcdn.com/4ed3d9b0bfc4df37ebf087eba2701310/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Minty": {
+      "display_name": "Minty",
+      "thumbnail": "https://tr.rbxcdn.com/3c5ad9086080007a52ce2315f7d74f58/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Asteroid": {
+      "display_name": "Asteroid",
+      "thumbnail": "https://tr.rbxcdn.com/1ea15580fe3e03b71145c0a6672be67a/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "BearFire": {
+      "display_name": "Fire Bear",
+      "thumbnail": "https://i.ibb.co/TbWkty1/Firebear-improved.png",
+      "value": 3,
+      "unstable": false
+  },
+  "Wrapped_K_2022": {
+      "display_name": "Wrapped",
+      "thumbnail": "https://tr.rbxcdn.com/d3045d315d80072398e3ca7167743b66/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Reaver_Legendary": {
+      "display_name": "Reaver",
+      "thumbnail": "https://tr.rbxcdn.com/54fd79fc5e37ce3e5081765aa721ac7b/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Rainbow": {
+      "display_name": "Rainbow",
+      "thumbnail": "https://tr.rbxcdn.com/901cc6fa6b0bfd093b7894bfde499c39/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "PumpkinPet": {
+      "display_name": "Pumpkin",
+      "thumbnail": "https://tr.rbxcdn.com/44169e2e7714d0aecfca02e6fd363739/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Coal_G_2021": {
+      "display_name": "Coal",
+      "thumbnail": "https://tr.rbxcdn.com/04375a7c4d4382e8d3d5535a4760e1bc/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Electro": {
+      "display_name": "Electro",
+      "thumbnail": "https://i.ibb.co/rpK0Dn2/Electro-Updated.png",
+      "value": 7,
+      "unstable": false
+  },
+  "Magma_G_2021": {
+      "display_name": "Magma",
+      "thumbnail": "https://tr.rbxcdn.com/5713b52d86456cca8ac75f7197817a89/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Stockings_G_2022": {
+      "display_name": "Stockings",
+      "thumbnail": "https://tr.rbxcdn.com/4d152167f0c032fbef7b44b9718faa0f/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Scratch": {
+      "display_name": "Scratch",
+      "thumbnail": "https://tr.rbxcdn.com/d2320c8d5df9667ed3090ac1883b5801/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "Ginger_G_2018": {
+      "display_name": "Ginger",
+      "thumbnail": "https://tr.rbxcdn.com/c583d5c201af70735cfc823dba5e67cd/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "Cat": {
+      "display_name": "Cat",
+      "thumbnail": "https://i.ibb.co/T4VLYc3/Cat-improved.png",
+      "value": 0,
+      "unstable": false
+  },
+  "Ornament2": {
+      "display_name": "Ornament2",
+      "thumbnail": "https://tr.rbxcdn.com/59fa7cd483dc517d866685270875e884/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Imbued": {
+      "display_name": "Imbued",
+      "thumbnail": "https://tr.rbxcdn.com/8e99d56c54987e23b8f1f118c3f34b80/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Tree": {
+      "display_name": "Tree",
+      "thumbnail": "https://tr.rbxcdn.com/a219c6b2cd453e4d6419a500b18d1526/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "Handsaw": {
+      "display_name": "Handsaw",
+      "thumbnail": "https://tr.rbxcdn.com/8a47e4e40bc44915bbaf0eddb745aedd/420/420/Model/Png",
+      "value": 13,
+      "unstable": false
+  },
+  "Ghosty": {
+      "display_name": "Ghosty",
+      "thumbnail": "https://i.ibb.co/2Yw3dhQ/Ghostypet.png",
+      "value": 1,
+      "unstable": false
+  },
+  "Moons": {
+      "display_name": "Moons",
+      "thumbnail": "https://tr.rbxcdn.com/185fa0d2826e5aae572ee5268e739016/420/420/Model/Png",
+      "value": 15,
+      "unstable": false
+  },
+  "StickersX_K_2022": {
+      "display_name": "Stickers",
+      "thumbnail": "https://tr.rbxcdn.com/226f8b969eae5877721a2aded03979c1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Log": {
+      "display_name": "Log",
+      "thumbnail": "https://tr.rbxcdn.com/b0a9c662abd7a03e2e3d03100bc88449/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GraveG": {
+      "display_name": "Grave",
+      "thumbnail": "https://tr.rbxcdn.com/d96144cb586e11b01c23ead02dbe95e6/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Cookie_G_2021": {
+      "display_name": "Cookie",
+      "thumbnail": "https://tr.rbxcdn.com/8c512db26bd4dc563175adfe246c3149/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Aurora_K_2019": {
+      "display_name": "Aurora",
+      "thumbnail": "https://i.ibb.co/YLWkW1c/Aurora-improved.png",
+      "value": 65,
+      "unstable": false
+  },
+  "WrappedGun": {
+      "display_name": "Wrapped",
+      "thumbnail": "https://tr.rbxcdn.com/0f0f0af2f4f8b27e6ec89bf73d129c7e/420/420/Model/Png",
+      "value": 12,
+      "unstable": false
+  },
+  "DeathshardChroma": {
+      "display_name": "Deathshard",
+      "thumbnail": "https://tr.rbxcdn.com/85c908c7f01a5785e367285d46c92f18/420/420/Image/Png",
+      "value": 105,
+      "unstable": false
+  },
+  "Elite": {
+      "display_name": "Elite",
+      "thumbnail": "https://tr.rbxcdn.com/d668199e0f03771bdafdfc828fda48a1/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GingerLuger": {
+      "display_name": "Ginger Luger",
+      "thumbnail": "https://tr.rbxcdn.com/3e3211ac4defcae927b1de03f3737249/420/420/Model/Png",
+      "value": 35,
+      "unstable": false
+  },
+  "Wolf": {
+      "display_name": "Wolf",
+      "thumbnail": "https://tr.rbxcdn.com/4fd5359005657b1555edb0d44fb2c347/420/420/Model/Png",
+      "value": 10,
+      "unstable": false
+  },
+  "8bit": {
+      "display_name": "8bit",
+      "thumbnail": "https://tr.rbxcdn.com/a60aa4c8972f378b0481e34019ba3129/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Cold": {
+      "display_name": "Cold",
+      "thumbnail": "https://tr.rbxcdn.com/3e41800a3f2e61d25620451e8c07ca3d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Holly_G_2018": {
+      "display_name": "Holly",
+      "thumbnail": "https://tr.rbxcdn.com/668a42fc61e5ad5d871331012eb1cba7/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "RandomRareWeapon": {
+      "display_name": "Random Rare Weapon",
+      "thumbnail": "https://tr.rbxcdn.com/d3f6ef599186dae9f75859f1cb7813f7/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Icicles_G_2018": {
+      "display_name": "Icicles",
+      "thumbnail": "https://tr.rbxcdn.com/dddf00749bd3432650bafe6cb1f5a3b5/420/420/Model/Png",
+      "value": 55,
+      "unstable": false
+  },
+  "MummyK": {
+      "display_name": "Mummy",
+      "thumbnail": "https://tr.rbxcdn.com/73155f2d9572df4925ce05ebb3a22686/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "Santa_G_2018": {
+      "display_name": "Elf",
+      "thumbnail": "https://tr.rbxcdn.com/9e5f0a7fc4db56a35375c475abd8b27c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Hallow": {
+      "display_name": "Hallow's Edge",
+      "thumbnail": "https://tr.rbxcdn.com/43740dc7fa8b936278f293264234e868/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "CandyCorn": {
+      "display_name": "CandyCorn",
+      "thumbnail": "https://tr.rbxcdn.com/ec4c0bc2378edb759e480087f0aaba40/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Nether": {
+      "display_name": "Nether",
+      "thumbnail": "https://tr.rbxcdn.com/6378564aebb070bab79a35874b162f58/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "WebbedK": {
+      "display_name": "Webbed",
+      "thumbnail": "https://tr.rbxcdn.com/b59cfcd592e1f38cc8b0713745d9bc93/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "RandLuger": {
+      "display_name": "Glitch",
+      "thumbnail": "https://tr.rbxcdn.com/e569a86e7aafa489d48033f957c7e7c9/420/420/Model/Png",
+      "value": 30,
+      "unstable": false
+  },
+  "SilverCandy": {
+      "display_name": "Silver Candy",
+      "thumbnail": "https://tr.rbxcdn.com/e34f4834e7d2e7a388f8304e8502a20d/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "GingerbladeChroma": {
+      "display_name": "Gingerblade",
+      "thumbnail": "https://tr.rbxcdn.com/6ef46320d3ee213cf52aed17f9bf6be5/420/420/Model/Png",
+      "value": 90,
+      "unstable": false
+  },
+  "Splash": {
+      "display_name": "Splash",
+      "thumbnail": "https://tr.rbxcdn.com/5ec33979228bea9660baa897ee37e66c/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Aid": {
+      "display_name": "Juice",
+      "thumbnail": "https://tr.rbxcdn.com/f5440108fb0ca2a232d6fee14fa5cee3/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Spider": {
+      "display_name": "Spider",
+      "thumbnail": "https://tr.rbxcdn.com/8f76c47f0c39f07599083f8243415aa4/420/420/Model/Png",
+      "value": 25,
+      "unstable": false
+  },
+  "Future": {
+      "display_name": "Future",
+      "thumbnail": "https://tr.rbxcdn.com/c5710bbc20dc015491532d7630d27e2d/420/420/Image/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Plasmite": {
+      "display_name": "Plasmite",
+      "thumbnail": "https://tr.rbxcdn.com/7fcee9ea920348b253ea862c08be7772/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Brains": {
+      "display_name": "Brains",
+      "thumbnail": "https://tr.rbxcdn.com/ca26d39fef67cc1a658c1dadbd2e9d8f/420/420/Model/Png",
+      "value": 3,
+      "unstable": false
+  },
+  "ElderwoodKnifeSilver": {
+      "display_name": "Elderwood Blade",
+      "thumbnail": "https://tr.rbxcdn.com/321ca584257617093fbcfb05e7cf99bd/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "ElderwoodGunBlue": {
+      "display_name": "Blue Elderwood",
+      "thumbnail": "https://tr.rbxcdn.com/df504df7b122057866e94cee2f3aad99/420/420/Model/Png",
+      "value": 0,
+      "unstable": false
+  },
+  "Gift": {
+      "display_name": "Gifts 2015",
+      "thumbnail": "https://i.ibb.co/S5F4RkK/Gifts2015-Updated.png",
+      "value": 1,
+      "unstable": false
+  },
+  "Summer_Stickers_K_2023": {
+      "display_name": "Stickers",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/65831d3e09f1b9b809506f9da16c9b3d/420/420/Image/Png"
+  },
+  "Ocean_G": {
+      "display_name": "Ocean",
+      "value": 460,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/9d432092a775121444f39e5725a6f64d/420/420/Image/Png"
+  },
+  "Floral_K_2023": {
+      "display_name": "Floral",
+      "value": 15,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/e28a5487e0cf5596b368723000a62034/420/420/Image/Png"
+  },
+  "Toy_K_2023": {
+      "display_name": "Toy",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/67a8abdb88c38c480fdc199c4a063d9e/420/420/Image/Png"
+  },
+  "Popsicle_K_2023": {
+      "display_name": "Popsicle",
+      "value": 1,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/ce46b4999577dc9bf5c766bd07347fb5/420/420/Image/Png"
+  },
+  "Summer_Stickers_G_2023": {
+      "display_name": "Stickers",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/33a8e5fee17be4e1cb2ef03b657b3963/420/420/Image/Png"
+  },
+  "IceHammerBronze": {
+      "display_name": "Bronze Icecrusher",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/046a0e9816e84c2738690e5ad1f968be/420/420/Model/Png"
+  },
+  "Sunset_G_2023": {
+      "display_name": "Sunset",
+      "value": 10,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/8c761b3b1f013a583bcc95b1d1bbc903/420/420/Image/Png"
+  },
+  "IceHammerSilver": {
+      "display_name": "Silver Icecrusher",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/d23860ba4ac775423ce64a82ccebfb4a/420/420/Model/Png"
+  },
+  "Emptybringer": {
+      "display_name": "???",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": ""
+  },
+  "IcepiercerSilver": {
+      "display_name": "Silver Icepiercer",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/208179907eb2e9b2d7f580bee4272422/420/420/Model/Png"
+  },
+  "Melon_G_2023": {
+      "display_name": "Melon",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/6634a5cdd87b6d810144499b49136079/420/420/Image/Png"
+  },
+  "Noodle_K_2023": {
+      "display_name": "Pool Noodle",
+      "value": 2,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/a3bb209166995af31cbd480a1053609c/420/420/Image/Png"
+  },
+  "IceHammerGold": {
+      "display_name": "Gold Icecrusher",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/97aa09871f5da4d62c54766d6915ae05/420/420/Model/Png"
+  },
+  "IceHammerRed": {
+      "display_name": "Red Icecrusher",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/a3bcab2355187da78c7173d644be1279/420/420/Model/Png"
+  },
+  "IcepiercerRed": {
+      "display_name": "Red Icepiercer",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/4c17663eb71945ad854116daf6947b3e/420/420/Model/Png"
+  },
+  "Toy_G_2023": {
+      "display_name": "Toy",
+      "value": 0	,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/a67557e31cb8ea3bb6b5b8fc330723dd/420/420/Image/Png"
+  },
+  "Beach_K_2023": {
+      "display_name": "Beach",
+      "value": 70,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/fcdb4a8739dfecce70a3d17cd976e8bb/420/420/Image/Png"
+  },
+  "Waves_K": {
+      "display_name": "Waves",
+      "value": 460,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/3a27bd928b9467002e482abb62bc53ba/420/420/Image/Png"
+  },
+  "IcepiercerBronze": {
+      "display_name": "Bronze Icepiercer",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/01ee52e4de61d82c539b1ead580ba114/420/420/Model/Png"
+  },
+  "IcepiercerGold": {
+      "display_name": "Gold Icepiercer",
+      "value": 0,
+      "unstable": false,
+      "thumbnail": "https://tr.rbxcdn.com/ad3d95bbf4722fee626a4d4342e76999/420/420/Model/Png"
+  }
+}

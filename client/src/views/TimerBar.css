@@ -1,0 +1,10 @@
+.background {
+    border-radius: 0px;
+    box-shadow: 0 1px #ffffff05, 0 1px 1px #0000001a inset;
+    height: .25rem;
+}
+
+.timer {
+    background-color: #00e258 !important;
+    height: .25rem;
+}
